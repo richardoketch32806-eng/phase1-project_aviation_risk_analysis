@@ -1,0 +1,1249 @@
+acc.date,aircraft_type,operator,fatalities,damage
+2022-01-03,British Aerospace 4121 Jetstream 41,SA Airlink,0,sub
+2022-01-04,British Aerospace 3101 Jetstream 31,LANHSA - Línea Aérea Nacional de Honduras S.A,0,sub
+2022-01-05,Boeing 737-4H6,Caspian Airlines,0,sub
+2022-01-08,Tupolev Tu-204-100C,"Cainiao, opb Aviastar-TU",0,w/o
+2022-01-12,Beechcraft 200 Super King Air,private,0,w/o
+2022-01-16,Airbus A320-214 (WL),Star Flyer,0,non
+2022-01-19,Cessna 208B Grand Caravan EX,Mahan Air,0,sub
+2022-01-22,Airbus A320-232,JetBlue Airways,0,sub
+2022-01-27,Bombardier CL-600-2B16 Challenger 604,Volare Aviation,0,sub
+2022-01-31,Bombardier CL-600-2B16 Challenger 604,Lima Delta Co Trustee,0,sub
+2022-01-31,Beechcraft B300 King Air 350,"Air Tindi, opf Royal Canadian Air Force - RCAF",0,sub
+2022-02-02,Hawker 1000,Skyview LLC,0,sub
+2022-02-05,Cessna 208B Grand Caravan,Care Aviation,0,sub
+2022-02-07,Embraer ERJ-190-100LR,Finnair,0,sub
+2022-02-08,Antonov An-26,South Sudanese Air Force,0,sub
+2022-02-11,Cessna 501 Citation I/SP,Aviajet SA,0,sub
+2022-02-11,Antonov An-2R,Kamchatsky Krechet,2,w/o
+2022-02-14,Let L-410UVP-E3,Doren Air Congo,0,w/o
+2022-02-15,ATR 42-500,Japan Air Commuter,0,non
+2022-02-15,Britten-Norman BN-2A-9 Islander,Air Flamenco,0,sub
+2022-02-16,Swearingen SA226-AT Merlin IV,Colcharter,0,sub
+2022-02-18,Embraer EMB-500 Phenom 100E,Eclipse Transport LLC,0,sub
+2022-02-21,de Havilland Canada DHC-3T Texas Turbine Otter,Bald Mountain Air Services,0,sub
+2022-02-21,Raytheon Hawker 800XP,Roper Aviation LLC,0,sub
+2022-02-23,Cessna 208B Grand Caravan,Air Serv Limited,0,sub
+2022-02-23,Antonov An-2,Taraz Zhana Alem,0,w/o
+2022-02-24,Antonov An-22A,Antonov Airlines,0,sub
+2022-02-24,Antonov An-26-100,Antonov Airlines,0,w/o
+2022-02-24,Antonov An-74T,Antonov Airlines,0,w/o
+2022-02-24,Cessna 208B Supervan 900,GoJump Oceanside,0,sub
+2022-02-24,Antonov An-26,Russian Air Force,0,w/o
+2022-02-24,Antonov An-26,Ukraine Air Force,5,w/o
+2022-02-26,Cessna 208B Grand Caravan,AB Aviation,14,w/o
+2022-02-27,Antonov An-124-100,Antonov Airlines,0,sub
+2022-02-27,Antonov An-225,Antonov Airlines,0,w/o
+2022-02-28,Cessna 208B Grand Caravan,Revolution Flight,0,sub
+2022-02-28,Embraer ERJ 170-200 LR (ERJ-175LR),"American Eagle, opb Republic Airlines",0,min
+2022-02-28,Cessna 208B Grand Caravan EX,Spirit Avia Sentosa,0,sub
+2022-03-01,Shaanxi Y-8Q,China Naval Air Force - Unit 92967,11,w/o
+2022-03-02,Embraer EMB-500 Phenom 100,Flyzar,0,sub
+2022-03-03,Boeing 737-8AS (WL),Ryanair,0,non
+2022-03-05,Dornier 228-101,Indian Coast Guard,0,sub
+2022-03-06,Beechcraft 200 Super King Air,HLAF AETA LLC,0,sub
+2022-03-07,Cessna 525B CitationJet CJ3,Ozark Air Services,0,sub
+2022-03-08,Cessna 208 Caravan I,Bamaji Air,0,w/o
+2022-03-09,Honda HA-420 HondaJet,Jet It LLC,0,sub
+2022-03-12,Beechcraft 1900D,Bocas Air,0,sub
+2022-03-17,Cessna 208B Super Cargomaster,Martinaire,0,min
+2022-03-17,Cessna 208B Super Cargomaster,Martinaire,0,sub
+2022-03-21,Boeing 737-89P (WL),China Eastern Airlines,132,w/o
+2022-03-26,Boeing 767-346ER,Japan Airlines (JAL),0,non
+2022-03-30,Cessna 208 Caravan I,"Skydive Costa d'Argento, lsf Gladwings",1,w/o
+2022-04-01,Embraer EMB-110P2 Bandeirante,TAG Airlines,0,sub
+2022-04-02,Learjet 75,Georgia Crown Distributing Co.,0,sub
+2022-04-07,Boeing 757-27A (PCF),DHL Aero Expreso,0,w/o
+2022-04-08,Aero Modifications AMI DC-3-65TP,ALIANSA Colombia,0,sub
+2022-04-11,Beechcraft A100 King Air,Thunder Airlines,0,sub
+2022-04-13,Gulfstream American G-1159 Gulfstream II B,private,0,w/o
+2022-04-13,Basler BT-67 Turbo 67,Servicio Aéreo de Policia,0,sub
+2022-04-13,Cessna 208B Grand Caravan,Gem Air,1,w/o
+2022-04-14,Fairchild SA227-DC Metro 23,Denver Air Connection,0,sub
+2022-04-17,Embraer EMB-505 Phenom 300,VOAR Cooperativa,0,sub
+2022-04-17,Cessna 525B CitationJet CJ3,GP Aviation LLC,0,sub
+2022-04-22,Antonov An-26B-100,Constanta Airlines,1,w/o
+2022-04-26,Boeing 737-8AS (WL),Ryanair,0,non
+2022-04-30,Beechcraft 99A Airliner,Freight Runners Express,0,sub
+2022-04-30,Cessna 208B Grand Caravan,Centre Ecole de Parachutisme Sportif de l'Ariège,0,sub
+2022-05-01,Boeing 737-8AS (WL),SpiceJet,0,unk
+2022-05-03,Shorts 360-300,Air Cargo Carriers,0,sub
+2022-05-06,Beechcraft 200 Super King Air,Sociedad De Transporte Aéreo Movi Air SPA,0,sub
+2022-05-06,Boeing 737-82R (WL),Blue Air,0,sub
+2022-05-10,Boeing 737-883 (WL),SAS Scandinavian Airlines,0,non
+2022-05-11,Viking Air DHC-6 Twin Otter 400,Caverton Helicopters (Cameroun) Ltd.,11,w/o
+2022-05-11,Cessna 208 Caravan I,"LBK Serviço Aéreo Especializado, opf Skydive4Fun",2,sub
+2022-05-12,Airbus A319-115 (WL),Tibet Airlines,0,w/o
+2022-05-20,Embraer EMB-110P1 Bandeirante,Sales Taxi Aéreo,0,sub
+2022-05-21,Boeing 737-7H4 (WL),Southwest Airlines,0,non
+2022-05-24,de Havilland Canada DHC-3T Turbine Otter,Yakutat Coastal Airlines,0,sub
+2022-05-25,Airbus A320-232,United Airlines,0,non
+2022-05-27,Boeing 787-9 Dreamliner,Etihad Airways,0,unk
+2022-05-28,Beechcraft B200 King Air,Unknown,0,sub
+2022-05-29,de Havilland Canada DHC-6 Twin Otter 300,Tara Air,22,w/o
+2022-06-02,Cessna 525 CitationJet,Kam Aviation LLC,0,sub
+2022-06-03,Cessna 208B Supervan 900,GoJump Oceanside,1,sub
+2022-06-04,Cessna 208 Caravan I,Connecticut Parachutists,0,sub
+2022-06-07,Shorts SC.7 Skyvan 3-200,Alaskan Air Charter,0,sub
+2022-06-07,Bombardier BD-100-1A10 Challenger 300,Pacific Dental Services,0,min
+2022-06-10,Airbus A319,,0,non
+2022-06-13,Cessna 550 Citation II,Northern Meridian LLC,0,sub
+2022-06-15,Beechcraft B200 Super King Air,ASL - Air Service Liege,0,sub
+2022-06-16,Boeing 737-3M8 (QC),Gomair,0,sub
+2022-06-17,Boeing 777-228ER,Air France,0,min
+2022-06-17,Airbus A330-202,ITA Airways,0,min
+2022-06-21,McDonnell Douglas MD-82,RED Air,0,w/o
+2022-06-21,Antonov An-2R,Techservice,2,w/o
+2022-06-22,Learjet 55C,private,6,w/o
+2022-06-22,Antonov An-30M,NPP Mir,0,sub
+2022-06-24,Fokker F-27 Friendship 500,Icon Aviation,0,unk
+2022-06-24,Ilyushin Il-76MD,Russian Air Force,5,w/o
+2022-06-25,de Havilland Canada DHC-8-402Q Dash 8,"All Nippon Airways - ANA, opb ANA Wings",0,non
+2022-06-26,Cessna 208 Supervan 900,Alaska Seaplanes,0,sub
+,Antonov An-2R,Voskhod LLC,0,sub
+2022-07-01,Antonov An-12BK,Motor Sich,0,sub
+2022-07-01,Boeing 737-7H4 (WL),Southwest Airlines,0,non
+2022-07-01,Learjet 35A,Flying America SA,4,w/o
+2022-07-13,Gulfstream G450,Alpha Star Aviation Services,0,sub
+2022-07-13,Cessna 208B Super Cargomaster,Corporate Air,0,sub
+2022-07-15,Raytheon Beechjet 400A,"Aircraft Management Group, Inc",0,sub
+2022-07-15,Antonov An-2R,private,2,sub
+2022-07-16,Boeing 737-81D (WL),Solaseed Air,0,non
+2022-07-16,Fokker 50,Icon Aviation,0,sub
+2022-07-16,Antonov An-12BK,Meridian,8,w/o
+2022-07-18,Fokker 50,Jubba Airways,0,w/o
+2022-07-20,Airbus A321-271NX,Wizz Air,0,non
+2022-07-21,Cessna 680 Citation Sovereign,Anderson Air,0,sub
+2022-07-22,Antonov An-2,Crop Protection Company,0,sub
+2022-07-24,Boeing 717-2BD,Delta Air Lines,0,sub
+2022-07-25,Airbus A320-214,Avianca,0,non
+2022-07-27,Bombardier BD-100-1A10 Challenger 300,VistaJet,0,non
+2022-07-28,de Havilland Canada DHC-3T Vazar Turbine Otter,Rust's Flying Service,0,sub
+2022-07-29,CASA C-212 Aviocar 200,Rampart Aviation,1,sub
+2022-07-30,Boeing 737-86N (WL),Nok Air,0,sub
+2022-08-05,Boeing 777-FDZ,Qatar Airways Cargo,0,sub
+2022-08-06,Boeing 757-251 (WL),Delta Air Lines,0,sub
+2022-08-07,IAI 1124 Westwind,Brasil Vida Táxi Aéreo,0,sub
+2022-08-15,Cessna 560 Citation Encore,"Raber Flight Services, LLC",0,sub
+2022-08-17,Antonov An-24B,Angara Airlines,0,sub
+2022-08-19,Boeing 737-824 (WL),United Airlines,0,non
+2022-08-20,Beechcraft 99,PACC Air,0,sub
+2022-08-29,Boeing 717-2BD,Delta Air Lines,0,non
+2022-08-30,Cessna 208B Grand Caravan EX,Smart Cakrawala Aviation,0,sub
+2022-08-31,Cessna 208B Grand Caravan EX,Private,0,w/o
+2022-09-01,Boeing 737-824 (WL),United Airlines,0,non
+2022-09-02,Airbus A320-251N,TAP Air Portugal,0,sub
+2022-09-02,Antonov An-2R,2nd Arkhangelsk United Aviation Division,0,sub
+2022-09-03,Shorts SC.7 Skyvan 3M-400,SkyForce,2,w/o
+2022-09-04,Airbus A220-100,Delta Air Lines,0,non
+2022-09-04,Boeing 777-F1H,AeroLogic,0,non
+2022-09-04,de Havilland Canada DHC-3T Turbine Otter,Friday Harbor Seaplane Tours,10,w/o
+2022-09-04,Cessna 551 Citation II/SP,GG Rent,4,w/o
+2022-09-07,Cessna 750 Citation X,"BVS, Inc",0,sub
+2022-09-09,Learjet 36,Strategic Airborne Operations,0,sub
+2022-09-09,Cirrus SF50 Vision Jet,TAC9 Inc.,0,sub
+2022-09-10,Antonov An-28,TRACEP-Congo Aviation,3,w/o
+2022-09-10,Cessna 208B Grand Caravan,Piquiatuba Táxi Aéreo,1,w/o
+2022-09-15,Fairchild SA227-AC Metro III,Aeronaves TSM,0,sub
+2022-09-19,Beechcraft 1900C-1,Equaflight Services,0,sub
+2022-09-20,Dassault Falcon 2000,Pepkor Group,0,sub
+2022-09-20,Cessna 525B CitationJet CJ3,Pacific Cataract & Laser Institute Inc Pc,0,w/o
+2022-09-20,British Aerospace 3201 Jetstream 32EP,SAETA Peru,1,sub
+2022-09-21,Britten Norman BN-2A-8 Islander,Jags Aviation,0,sub
+2022-09-21,Rockwell Sabreliner 65,private,0,w/o
+2022-09-22,Boeing 737-8HC (WL),SunExpress,0,sub
+2022-09-22,Antonov An-2R,Crop Protection Company,0,sub
+2022-09-24,Boeing 737-436 (SF),"Swiftair, opf West Atlantic (UK)",0,sub
+2022-09-25,Boeing 737-8V3 (WL),Copa Airlines,0,sub
+2022-09-25,Fokker 50,Freedom Airline Express,0,sub
+2022-09-27,Cessna 550 Citation II,ABS Equipment Leasing,0,sub
+2022-09-28,Boeing 757-256 (WL),Icelandair Flugfélag Islands,0,sub
+2022-09-28,Boeing 777-3B5ER,Korean Air,0,sub
+2022-09-29,Boeing 737-7CT (WL),Southwest Airlines,0,non
+2022-10-01,Boeing 737-8GJ (WL),Transavia France,0,sub
+2022-10-03,Boeing 737-8Q3 (WL),Japan Transocean Air,0,non
+2022-10-03,Embraer EMB-545 Legacy 450,Partee Aviation LLC,0,sub
+2022-10-03,Britten-Norman BN-2A-21 Islander,Torres Strait Air,0,sub
+2022-10-05,ATR 42-500,Sky Express,0,sub
+2022-10-12,Honda HA-420 HondaJet,Jupiter Aviation LLC,0,sub
+2022-10-13,de Havilland Canada DHC-3T Vazar Turbine Otter,True North Airways,0,w/o
+2022-10-13,Cessna 208B Grand Caravan,SAETA Peru,0,w/o
+2022-10-16,Cirrus SF50 Vision Jet G2,Panamerican Training Center - PTC,0,sub
+2022-10-18,Beechcraft 99 Airliner,Flamingo Air Charter,0,sub
+2022-10-19,de Havilland Canada DHC-8-314 Dash 8,Perimeter Aviation,0,sub
+2022-10-22,Boeing 737-8AS (WL),Ryanair,0,non
+2022-10-23,Airbus A330-322,Korean Air,0,sub
+2022-10-25,Cessna 208B Grand Caravan,Reven Global Transpor,0,sub
+2022-10-27,Canadair CL-215-6B11 (CL-415),Vigili del Fuoco,2,w/o
+2022-10-28,Embraer EMB-110C Bandeirante,Fuerza Aérea Uruguaya - FAU,0,sub
+2022-11-02,Airbus A319-132,Spirit Airlines,0,non
+2022-11-03,Eclipse 550,Elite Flight Travel,0,sub
+2022-11-03,Let L-410UVP-E20,Goma Express,3,w/o
+2022-11-06,Cessna 208B Grand Caravan,Aviación Militar Bolivariana,5,w/o
+2022-11-06,ATR 42-500,Precision Air,19,sub
+2022-11-07,ATR 72-600 (72-212A),Japan Air Commuter,0,non
+2022-11-09,Boeing 737-7H4 (WL),Southwest Airlines,0,sub
+2022-11-09,Boeing 737-823 (WL),American Airlines,0,sub
+2022-11-10,Boeing 737 MAX 8,American Airlines,0,non
+2022-11-12,Boeing B-17G Flying Fortress,American Airpower Heritage Museum,0,w/o
+2022-11-14,Antonov An-2,Risk Mondial Aviation & Recovery,0,sub
+2022-11-15,Honda HA-420 HondaJet,Andersen Air LLC,0,sub
+2022-11-15,Fairchild SA227-AT Expediter,Ameriflight,0,sub
+2022-11-17,Embraer EMB-110P1 Bandeirante,LeAir Charter Services,0,min
+2022-11-17,Beechcraft 1900D,Penjet Pty Ltd,0,sub
+2022-11-18,Airbus A320-271N,LATAM Perú,0,w/o
+2022-11-18,Cessna 208B Grand Caravan EX,Raisbeck Engineering,4,w/o
+2022-11-19,Airbus A320-211,Delta Air Lines,0,sub
+2022-11-20,Boeing 737-4Q8 (SF),"Bluebird Cargo, opf ASL Airlines Belgium",0,sub
+2022-11-25,Cirrus SF50 Vision Jet G2,Verijet,0,sub
+2022-11-28,Airbus A330-243,Azul Linhas Aéreas Brasileiras,0,non
+2022-11-29,Boeing 737-7H4 (WL),Southwest Airlines,0,non
+2022-11-29,Learjet 45,Jett Aircraft,0,sub
+2022-11-30,Learjet 36,Aery Aviation,0,sub
+2022-12-01,Learjet 35A,"REVA, Inc.",0,sub
+2022-12-03,Embraer ERJ-175LR,Mesa Airlines,0,non
+2022-12-07,British Aerospace BAe-146-200,Antarctic Airways,0,sub
+2022-12-08,Boeing 767-322ER (WL),United Airlines,0,non
+2022-12-15,Swearingen SA226-TC Metro II,Key Lime Air,0,sub
+2022-12-17,de Havilland Canada DHC-8-402QPF Dash 8,Blue Bird Aviation,0,sub
+2022-12-18,Airbus A330-243,Hawaiian Airlines,0,min
+2022-12-18,Boeing 737-824 (WL),United Airlines,0,non
+2022-12-22,Boeing 787-9 Dreamliner,Air Canada,0,unk
+2022-12-23,de Havilland Canada DHC-6 Twin Otter 300,Rimbun Air,0,sub
+2022-12-24,Gulfstream GIV-X (G450),Flexjet LLC,0,non
+2022-12-26,Boeing 737-860 (WL),Ethiopian Airlines,0,sub
+2022-12-26,Boeing 737 MAX 8-200,Ryanair,0,non
+2022-12-26,Boeing 737-3Z0,"Tarco Aviation, lsf Mid Africa Aviation",0,sub
+2022-12-27,Embraer EMB-505 Phenom 300,Skystallion LLC,0,sub
+2022-12-30,Canadair CL-600S Challenger 600,private,2,w/o
+2022-12-31,Embraer ERJ-175LR (ERJ-170-200 LR),"American Eagle, opb Envoy Air",0,min
+2022-12-31,Cessna 208B Grand Caravan,BAR Aviation,0,w/o
+2021-01-02,Beechcraft 200 Super King Air,"Vagus Group, Inc.",0,min
+2021-01-02,Learjet 31A,Brasil Vida Táxi Aéreo,0,sub
+2021-01-09,Cessna 560 Citation V,SX Transport LLC,1,w/o
+2021-01-09,Boeing 737-524 (WL),Sriwijaya Air,62,w/o
+2021-01-12,Harbin Y-12-II,Kenya Air Force - KAF,4,w/o
+2021-01-17,Boeing 777-31HER,Emirates,0,non
+2021-01-19,Avro RJ85,Jota Aviation,0,sub
+2021-01-19,Boeing 737-4Q8 (SF),West Atlantic UK,0,sub
+2021-01-23,Canadair CL-600 Challenger 600,Global Avionics LLC,0,unk
+2021-01-23,North American Rockwell Sabreliner 60,Aviacion Ejecutiva del Bajio,0,sub
+2021-01-24,Raytheon Beechjet 400A,Martinair Inc.,0,sub
+2021-01-26,Harbin Y-12E,Zambian Air Force,0,sub
+2021-01-28,Beechcraft B300 King Air 350,MM-Air LLC,0,sub
+2021-01-29,Beechcraft 100 King Air,private,0,w/o
+,Antonov An-2,Korean People's Army Air and Anti-Air Force (KPAAF),5,w/o
+2021-02-01,Boeing 747-8KZF,Nippon Cargo Airlines,0,sub
+2021-02-08,Airbus A320-271N,Spirit Airlines,0,non
+2021-02-08,Embraer EMB-500 Phenom 100,Luxwing,0,sub
+2021-02-09,Antonov An-12BK,Russian Air Force,0,sub
+2021-02-10,Airbus A320-214 (WL),Flyadeal,0,sub
+2021-02-13,Dassault Falcon 900EX EASy,Aerospike Iron LLC,0,sub
+2021-02-14,de Havilland Canada DHC-6 Twin Otter 300,Manta Air,0,sub
+2021-02-15,de Havilland Canada DHC-6 Twin Otter 300,Armée de l'air et de l'espace,0,sub
+2021-02-18,Learjet 55C,Royal Air Freight,0,sub
+2021-02-20,Boeing 737-86N (WL),Air India Express,0,sub
+2021-02-20,de Havilland Canada DHC-3T Vazar Turbine Otter,Wings Over Kississing,0,sub
+2021-02-21,Beechcraft 200 Super King Air,private,0,w/o
+2021-02-21,Learjet 45XR,Fuerza Aérea Mexicana,6,w/o
+2021-02-21,Beechcraft B300 King Air 350,Nigerian Air Force - NAF,7,w/o
+2021-02-26,Antonov An-2T,Asia Continental Airlines,0,sub
+2021-02-28,Douglas DC-3C,ALIANSA Colombia,0,sub
+2021-03-01,ATR 72-500 (72-212A),Air Algérie,0,unk
+2021-03-01,Beechcraft B300 King Air 350i,"Beidahuang General Airlines, opf China Met, Administration",5,w/o
+2021-03-02,Let L-410UVP-E,South Sudan Supreme Airlines,10,w/o
+2021-03-04,Fokker 100,Iran Air,0,non
+2021-03-07,Embraer EMB-120ER Brasilia,Berry Aviation,0,sub
+2021-03-10,Cessna 208B Grand Caravan,Mission Aviation Fellowship - MAF,0,sub
+2021-03-12,Cessna 208B Grand Caravan,Grant Aviation,0,sub
+2021-03-13,Antonov An-26,Kazakhstan Border Guards,4,w/o
+2021-03-15,Boeing 777-223ER,American Airlines,0,non
+2021-03-16,Bombardier CRJ-701ER,Skywest Airlines,0,non
+2021-03-18,Airbus A320-232,Viva Aerobus,0,sub
+2021-03-19,Antonov An-2T,Venezuela Flight Canaima,0,sub
+2021-03-20,Cessna 208B Grand Caravan,Aeronav Air Services,2,w/o
+2021-03-20,Boeing 737-4Y0,Trigana Air Service,0,sub
+2021-03-23,Saab 340AF,SprintAir,0,sub
+2021-03-25,Embraer,Mauritania Airlines International,0,non
+2021-03-26,Beechcraft B200 Super King Air,West Wind Aviation Ltd.,0,w/o
+2021-03-28,Embraer EMB-145LR,"American Eagle , opb Piedmont Airlines",0,non
+2021-04-02,Boeing 737-8AS (WL),Malta Air,0,min
+2021-04-03,Cessna 208B Grand Caravan,Everts Air Cargo,0,sub
+2021-04-08,Antonov An-2,Unknown,0,w/o
+2021-04-09,Boeing C-17A Globemaster III,United States Air Force - USAF,0,sub
+2021-04-14,Cessna 525A CitationJet CJ2+,private,0,sub
+2021-04-15,Learjet 35A,Med Air Inc,0,sub
+2021-04-16,Beechcraft B99 Airliner,Lake Clark Air,0,sub
+2021-04-18,Learjet 25B,Unknown,0,sub
+2021-04-20,Learjet 35A,Eletric Power Construção,1,w/o
+2021-04-26,Cessna 208B Grand Caravan EX,Haugland Group Aviation LLC,0,sub
+2021-05-01,Cessna 550 Citation II,STB Aviation LLC,0,sub
+2021-05-05,Gulfstream G150,TLD Aviation I LLC,0,sub
+2021-05-06,Beechcraft B200GT King Air 250,Government of Madhya Pradesh,0,sub
+2021-05-10,ATR 72-600 (72-212A),Uni Air,0,sub
+2021-05-12,Boeing 737-8AS (WL),Ryanair,0,non
+2021-05-12,Swearingen SA226-TC Metro II,Key Lime Air,0,sub
+2021-05-13,Cessna 208B Grand Caravan,Skydive Andes,0,unk
+2021-05-19,Hawker 800,private,0,w/o
+2021-05-20,IAI 1125 Astra,private,0,sub
+2021-05-21,Boeing 737-7H4,Southwest Airlines,0,min
+2021-05-21,Antonov An-2R,Utair,0,sub
+2021-05-21,Beechcraft B300 King Air 350i,Nigerian Air Force - NAF,11,w/o
+2021-05-28,Boeing 767-38E,Asiana Airlines,0,non
+2021-05-28,Boeing 737-823 (WL),American Airlines,0,sub
+2021-05-29,Cessna 501 Citation I/SP,JL&GL Productions LP,7,w/o
+2021-05-30,ATR 72-500 (72-212A),Sky Express,0,sub
+2021-06-02,Beechcraft 1900C,Alpine Air Express,0,sub
+2021-06-03,Cessna 208B Grand Caravan EX,Dabi Air Nusantara,0,w/o
+2021-06-04,Honda HA-420 HondaJet,GF Aviation LLC,0,sub
+2021-06-05,Cessna 208B Supervan 900,Paraclub Wiener Neustadt,0,sub
+2021-06-07,Boeing 737-8AL (WL),Vistara,0,non
+2021-06-10,Beechcraft 1900D,Tatmadaw Lei (Myanmar Air Force),12,w/o
+2021-06-13,Boeing 737-8AS (WL),Ryanair,0,non
+2021-06-14,ATR 72-600 (72-212A),IndiGo Airlines,0,sub
+2021-06-16,Let L-410UVP-E,Kin Avia,3,w/o
+2021-06-18,Boeing 787-8 Dreamliner,British Airways,0,sub
+2021-06-19,Let L-410UVP-E,DOSAAF,5,w/o
+2021-06-21,Rockwell Sabreliner 65,private,0,w/o
+2021-06-23,Gulfstream G280,INEOS Aviation,0,sub
+2021-06-23,Lockheed L-100-30 Hercules,Ethiopian Air Force,0,w/o
+2021-06-24,Antonov An-2R,private,0,sub
+2021-06-25,Airbus A321-231,American Airlines,0,non
+2021-06-25,Shorts 360-300,Air Cargo Carriers,0,sub
+2021-06-25,Cessna 208B Supervan 900,Skydive Teuge,0,sub
+2021-06-29,Airbus A350-941,Air France,0,non
+2021-07-01,Convair CV-580 Airtanker,Conair,0,sub
+2021-07-01,Convair CV-580 Airtanker,Conair,0,min
+2021-07-02,Boeing 737-275C Adv.,Transair (Cargo),0,w/o
+2021-07-02,Cessna 750 Citation X,Hellenic CAA,0,sub
+2021-07-04,Airbus A321-231,American Airlines,0,non
+2021-07-04,Antonov An-2R,ELISA,0,sub
+2021-07-04,Lockheed C-130H Hercules,Hukbong Himpapawid ng Pilipinas (Philippine Air Force),0,w/o
+2021-07-05,IAI 1124A Westwind II,Transenergie Inc,2,w/o
+2021-07-06,ATR 42-320,Transwest Air,0,non
+2021-07-06,Antonov An-26B-100,Kamchatka Aviation Enterprise,28,w/o
+2021-07-07,Cessna 208B Grand Caravan,Ryan Air,0,non
+2021-07-08,Douglas DC-3C,ALIANSA Colombia,3,w/o
+2021-07-11,Airbus A320-214,Condor Flugdienst,0,sub
+2021-07-11,de Havilland Canada DHC-3T Vazar Turbine Otter,Northwestern Air,0,sub
+2021-07-11,Cessna 208 Caravan I,Air Tunilik,0,sub
+2021-07-14,Cessna 208B Grand Caravan EX,Jags Aviation,0,sub
+2021-07-15,de Havilland Canada DHC-3T Vazar Turbine Otter,Harbour Air,0,sub
+2021-07-15,Cessna 208 Caravan I,Seair Seaplanes,0,sub
+2021-07-16,Antonov An-28,SiLA - Siberian Light Aviation,0,sub
+2021-07-17,Cessna 208B Supervan 900,GoSkydive,0,sub
+2021-07-18,ATR 72-500 (72-212A),"Air Europa Express, opb Aeronova",0,sub
+2021-07-20,British Aerospace BAe-125-700A,private,0,w/o
+2021-07-21,Cessna 560XL Citation Excel,PV Transport Inc,0,sub
+2021-07-21,de Havilland Canada DHC-8-106,Skyward Express,0,sub
+2021-07-22,Airbus A321-211,Delta Air Lines,0,non
+2021-07-25,Boeing 737-8JP (WL),Norwegian Air Sweden,0,non
+2021-07-26,Bombardier CL-600-2B16 Challenger 605,Aeolus Air Charter,6,w/o
+2021-07-26,Cessna 208 Supervan 900,Skydive Binz,1,w/o
+2021-07-27,Cessna 208B Grand Caravan,"Abyssinian Flight Services, opf UNWorld Food Programme",0,w/o
+2021-07-31,Boeing 737-8AS (WL),Ryanair,0,non
+2021-08-03,Airbus A300B4-622R (F),European Air Transport,0,sub
+2021-08-09,Gulfstream American G-1159A Gulfstream III,private,0,w/o
+2021-08-11,McDonnell Douglas MD-11F,United Parcel Service - UPS,0,sub
+2021-08-12,Shijiazhuang Y-5B(D),Northeast General Aviation Co.,0,w/o
+2021-08-14,Britten-Norman BN-2A-III-2 Trislander,Roraima Airways,0,min
+2021-08-14,Bombardier DHC-8-402Q Dash 8,Congo Airways,0,min
+2021-08-14,Beriev Be-200ChS,Russian Navy,8,w/o
+2021-08-16,Cessna 208B Grand Caravan,Wright Air Service,0,sub
+2021-08-17,Ilyushin Il-112V,United Aircraft Corporation,3,w/o
+2021-08-21,Airbus A319-132,American Airlines,0,non
+2021-08-21,de Havilland Canada DHC-3T Turbine Otter,Brooks Range Aviation,0,sub
+2021-08-21,Gulfstream G-IV,SN 1124 LLC,0,sub
+2021-08-23,Boeing 737-990ER,Alaska Airlines,0,non
+2021-08-24,Cirrus SF50 Vision Jet,N1GG LLC,0,w/o
+2021-08-25,Beechcraft 1900D,SkyJet,0,sub
+2021-08-26,Embraer EMB-505 Phenom 300,Nicholas Services LLC,0,sub
+2021-08-27,Bombardier CRJ-900LR,Air Canada,0,min
+2021-09-01,Boeing 767-332ER (WL),Delta Air Lines,0,non
+2021-09-02,Cessna 560XLS+ Citation XLS+,Brook Haven Properties LLC,4,w/o
+2021-09-03,Raytheon 390 Premier I,PB Air LLC,0,sub
+2021-09-04,ATR 72-600 (72-212A),IndiGo Airlines,0,non
+2021-09-04,Cessna 560XL Citation Excel,Fly Exclusive,0,sub
+2021-09-12,British Aerospace BAe-125,private,0,w/o
+2021-09-12,Let L-410UVP-E20,"Aeroservice, opf SiLA - Siberian Light Aviation",4,w/o
+2021-09-14,Raytheon Beechjet 400A,Meander Air II LLC,0,sub
+2021-09-14,Beechcraft B200GT King Air 250,CSM Agropecuária,7,w/o
+2021-09-15,Airbus A320-214,Austrian Airlines,0,sub
+2021-09-15,de Havilland Canada DHC-6 Twin Otter 300,Rimbun Air,3,w/o
+2021-09-17,Canadair CRJ-200LR,"United Express, opb Air Wisconsin",0,sub
+2021-09-20,Learjet 35A,Impuma Group,0,sub
+2021-09-22,Antonov An-26KPA,LPS Flight Checks & Systems,6,w/o
+2021-09-23,Airbus A321-271N,Hawaiian Airlines,0,sub
+2021-09-25,Cessna 208B Supervan 900,Paracentrum Vlaanderen,0,sub
+2021-09-27,Saab 340B,"STP Airways, lsf AeroJet",0,sub
+2021-09-27,Boeing 757-224 (WL),United Airlines,0,sub
+2021-09-28,IAI 1124A Westwind II,Brasil Vida Táxi Aéreo,0,sub
+2021-09-29,Britten-Norman BN-2B-26 Islander,SVG Air,0,sub
+2021-10-01,Embraer ERJ-175LR,"United Express, opb Republic Airlines",0,sub
+2021-10-01,Embraer ERJ-175LR,"United Express, opb SkyWest Airlines",0,min
+2021-10-05,Dassault Falcon 20C,Sierra West Airlines,2,w/o
+2021-10-08,Boeing 737-8H4 (WL),Southwest Airlines,0,non
+2021-10-08,Learjet 35A,private,0,w/o
+2021-10-10,Let L-410UVP-E3,DOSAAF,16,w/o
+2021-10-13,Bombardier BD-700-1A10 Global 6000,VistaJet,0,sub
+2021-10-14,Antonov An-2T,private,0,w/o
+2021-10-15,Cessna 208B Grand Caravan,Air Services Limited - ASL,0,non
+2021-10-18,Beechcraft 200 Super King Air,Lowcountry Aviation Co Brokerage LLC,0,sub
+2021-10-19,Antonov An-2R,AeroUral,0,sub
+2021-10-19,Rockwell Sabreliner 60,private,0,sub
+2021-10-19,McDonnell Douglas MD-87,987 Investments LLC,0,w/o
+2021-10-22,Embraer EMB-500 Phenom 100,Scout About LLC,0,sub
+2021-10-22,Cessna 208B Supervan 900,Alaska Seaplanes,0,sub
+2021-10-23,Embraer ERJ-175LR,"Envoy Air, opf American Eagle",0,non
+2021-10-25,Cessna 208 Caravan I,Smart Cakrawala Aviation,1,w/o
+2021-10-29,Cessna 208B Grand Caravan,Reven Global Transpor,0,w/o
+2021-10-30,Beechcraft 200 King Air,"PAL Airlines, opf EHS LifeFlight Services",0,sub
+2021-11-01,de Havilland Canada DHC-6 Twin Otter 300,Air Tindi,0,sub
+2021-11-02,Antonov An-26,"Optimum Aviation, opf Euro Airlines",5,w/o
+2021-11-03,Beechcraft Super King Air,private,0,w/o
+2021-11-03,Antonov An-12BK,Grodno Aircompany,9,w/o
+2021-11-03,Transall C-160NG,Safe Air Company (SAC),0,w/o
+2021-11-05,Gulfstream ?,private,0,w/o
+2021-11-05,Gulfstream Aerospace G-1159A Gulfstream III,private,0,w/o
+2021-11-06,Antonov An-2R,Asociatia Club Sportiv Skydiving Center,0,sub
+2021-11-13,Britten-Norman BN-2A-6 Islander,Island Airways,4,w/o
+2021-11-14,IAI 1125 Astra SP,EMD Astra Holdings LLC,0,sub
+2021-11-21,Bombardier BD-100-1A10 Challenger 350,NetJets,0,non
+2021-11-25,Airbus A320-251N,Azul Linhas Aéreas Brasileiras,0,non
+2021-11-28,Beechcraft 200 Super King Air,Western Wings Corp,0,sub
+2021-11-29,Boeing 747-4B5F,Kalitta Air,0,sub
+2021-12-01,Cessna 510 Citation Mustang,private,0,sub
+2021-12-01,Cessna 208 Caravan I,Lake & Peninsula Airlines,0,sub
+2021-12-05,Airbus A350-941,Air Caraïbes Atlantique,0,non
+2021-12-05,Cessna 560XL Citation Excel,Air Charter Scotland Ltd.,0,sub
+2021-12-10,Swearingen SA-226AT Merlin IV,Castle Aviation,1,w/o
+2021-12-11,Boeing 737-8AS (WL),Ryanair,0,non
+2021-12-12,Airbus A320-251N,Frontier Airlines,0,sub
+2021-12-14,Embraer EMB-500 Phenom 100,Dimed SA Distribuidora da Medicamentos,0,sub
+2021-12-15,Gulfstream G-IVSP,Helidosa Aviation Group,9,w/o
+2021-12-17,Beechcraft B200 Super King Air,Keewatin Air,0,sub
+2021-12-20,Cessna 525 CitationJet,Cottingham & Butler Insurance Services,0,sub
+2021-12-21,Airbus A321-271NX,JetBlue Airways,0,non
+2021-12-21,Learjet 35A,private,0,w/o
+2021-12-21,Cessna 208B Super Cargomaster,Martinaire,0,w/o
+2021-12-23,Shorts 360-300,Malu Aviation,5,w/o
+2021-12-25,Airbus A330-343,Air Canada,0,sub
+2021-12-27,Learjet 35A,Aeromedevac Air Ambulance,4,w/o
+2021-12-28,Beechcraft A100 King Air,Sky-Bound Aviation LLC,0,sub
+2021-12-28,Cessna 208B Grand Caravan,Halsted Aviation Corporation (HAC),0,w/o
+2021-12-30,Embraer ERJ-170SE,"United Express, opb Republic Airlines",0,sub
+2021-12-30,Airbus A330-303,THY Turkish Airlines,0,min
+2021-12-30,Beechcraft 300 Super King Air,"Empresas Ginro, S.A.",0,w/o
+2021-12-31,IRMA/Pilatus Britten-Norman BN-2T Islander,Royal Moroccan Gendarmerie,0,unk
+2020-01-01,Gulfstream G IV,Executive Charters Inc,0,non
+2020-01-02,Antonov An-12A,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),18,w/o
+2020-01-03,Hawker 900XP,Million Air San Juan,0,sub
+2020-01-03,Harbin Y-12-II,Sri Lanka Air Force,4,w/o
+2020-01-04,Beechcraft B200 King Air,"L.C. Whitford Co., Inc.",0,sub
+2020-01-05,de Havilland Canada DHC-8-202Q,US Special Operations Command (USSOCOM),0,w/o
+2020-01-05,Beechcraft B300 King Air 350,L3 Technologies,2,w/o
+2020-01-08,Boeing 737-823 (WL),American Airlines,0,sub
+2020-01-08,Boeing 737-8KV (WL),Ukraine International Airlines,176,w/o
+2020-01-09,Lockheed C-130BZ Hercules,South African Air Force - SAAF,0,sub
+2020-01-10,Airbus A320-232,United Airlines,0,non
+2020-01-10,Airbus A321-231 (WL),Nordwind Airlines,0,sub
+2020-01-12,Boeing 737-8Q8 (WL),Jin Air,0,non
+2020-01-13,Airbus A320-214,Finnair,0,non
+2020-01-16,Airbus A380-861,Emirates,0,non
+2020-01-16,Beechcraft B200 King Air,LifeMed Alaska,0,w/o
+2020-01-19,Fairchild SA227-AC Metro III,Perimeter Aviation,0,sub
+2020-01-20,Boeing 767-232 (BDSF),West Air Sweden,0,sub
+2020-01-20,de Havilland Canada DHC-8-314 Dash 8,Air Inuit,0,sub
+2020-01-23,Cessna S550 Citation S/II,South African Civil Aviation Authority,3,w/o
+2020-01-23,Lockheed EC-130Q Hercules,Coulson Aviation,3,w/o
+2020-01-24,Gulfstream G150,Compass Aviation LLC,0,sub
+2020-01-27,Bombardier E-11A (Global Express),US Air Force (USAF),2,w/o
+2020-01-27,McDonnell Douglas MD-83,Caspian Airlines,0,w/o
+2020-01-28,Boeing 737-6CT,WestJet,0,sub
+2020-01-28,Boeing 737-76N (WL),WestJet,0,sub
+2020-01-30,Hawker 900XP,ALE - Aerolineas Ejecutivas,0,w/o
+2020-01-31,Bombardier DHC-8-402Q Dash 8,WestJet Encore,0,sub
+2020-02-01,Boeing 747-412F (SCD),"ACT Airlines, opf Saudi Arabian Airlines",0,sub
+2020-02-02,Airbus A380-861,Emirates,0,non
+2020-02-03,Boeing 747-412 (BCF),Kalitta Air,0,sub
+2020-02-03,Boeing 767-375ER,Air Canada,0,min
+2020-02-04,Cessna 208B Grand Caravan,Grant Aviation,0,sub
+2020-02-05,Boeing 737-86J (WL),Pegasus Airlines,3,w/o
+2020-02-06,Cessna 208B Grand Caravan,Redding Aero Enterprises Inc.,0,sub
+2020-02-07,Bombardier CRJ-900LR,"PSA Airlines, opf American Eagle",0,sub
+2020-02-07,Cessna 208B Super Cargomaster,"Mountain Air Cargo, opf FedEx",0,sub
+2020-02-07,Boeing 757-256 (WL),Icelandair Flugfélag Islands,0,unk
+2020-02-08,Beechcraft 200 Super King Air,Transportes Torreon,0,w/o
+2020-02-08,Cessna 501 Citation I/SP,Remonia Air,4,w/o
+2020-02-09,Boeing 737-524 (WL),Utair,0,sub
+2020-02-12,Cessna 560 Citation Encore,SC Cole Aviation LLC,0,sub
+2020-02-14,Cessna 208 Caravan I,Mission Aviation Fellowship - MAF,0,sub
+2020-02-15,Boeing 737-8KN (WL),Eastar Jet,0,non
+2020-02-20,Cessna 510 Citation Mustang,Private,0,sub
+2020-02-20,Beechcraft B200 King Air,"Lauren Engineers & Constructors, Inc.",3,w/o
+2020-02-20,Antonov An-2T,T-Cement,0,sub
+2020-02-21,de Havilland Canada DHC-3T Vazar Turbine Otter,Harbour Air,0,sub
+2020-02-23,Bombardier CL-600-2B16 Challenger 605,Canadian Pacific Railway Company,0,sub
+2020-02-24,de Havilland Canada DHC-6 Twin Otter 300,Trans Maldivian Airways,0,sub
+2020-02-24,Fairchild SA227-DC Metro 23,"Bearskin Airlines, opb Perimeter Aviation",0,sub
+2020-02-25,Boeing 737-301 (BDSF),Trigana Air Service,0,sub
+2020-02-25,Learjet 55,Expectra Aviation Inc.,0,sub
+2020-02-26,Antonov An-2P,Orlan 2000,0,w/o
+2020-02-27,Dassault Falcon 50,private,0,w/o
+2020-02-28,Airbus A300B4-203 (F),Sigma Airlines,0,sub
+2020-02-29,Learjet 35A,East Coast Jets,0,sub
+2020-03-03,Dassault Falcon 7X,private,0,sub
+2020-03-03,Cessna 560 Citation Encore,private,0,sub
+2020-03-03,Cirrus SF50 Vision Jet,BBR Air,0,sub
+2020-03-03,Learjet 55,Jetleg Management,0,sub
+2020-03-03,Beechcraft 200 Super King Air,AT Aero LLC,0,sub
+2020-03-03,Beechcraft 200 Super King Air,Executive Business Aviation Inc,0,sub
+2020-03-03,Bombardier BD-100-1A10 Challenger 300,Legacy Air LLC,0,sub
+2020-03-03,Cessna 525C Citation CJ4,Textron Inc.,0,sub
+2020-03-03,Cessna 525 CitationJet CJ1,"Crye-Leike South, Inc",0,sub
+2020-03-03,Beechcraft B300 King Air 350i,Carol 1 LLC,0,w/o
+2020-03-03,Dassault Falcon 2000,"Caridad Aviation, LLC",0,sub
+2020-03-03,Cessna S550 Citation S/II,private,0,sub
+2020-03-05,Cessna 208B Super Cargomaster,"FedEx Express, opb CSA Air",0,sub
+2020-03-06,de Havilland Canada DHC-6 Vista Liner 300,Grand Canyon Airlines,0,sub
+2020-03-08,Boeing 767-3Q8ER,Omni Air International,0,sub
+2020-03-09,Airbus A330-343,Thai Airways International,0,sub
+2020-03-09,Gulfstream G-IVSP,"Platinum Jet Co., Ltd.",0,sub
+2020-03-12,de Havilland Canada DHC-3T Vazar Turbine Otter,Martini Aviation Ltd.,0,sub
+2020-03-12,Beechcraft 200 Super King Air,private,2,w/o
+2020-03-13,Cessna 525 CitationJet,Servicios 5250084,2,w/o
+2020-03-14,Raytheon Hawker 800XP,Gemini Air Group,0,sub
+2020-03-17,Cessna 208B Super Cargomaster,Planemasters,1,w/o
+2020-03-19,Cessna 208 Caravan I,Mission Aviation Fellowship - MAF,0,sub
+2020-03-21,Boeing 757-223 (WL),American Airlines,0,sub
+2020-03-22,Hawker Siddeley HS-125-F400B,private,0,sub
+2020-03-28,Cessna 501 Citation I/SP,RBR Development LLC,0,w/o
+2020-03-28,Cessna 525A CitationJet CJ2+,Hog Air Aviation LLC,0,w/o
+2020-03-29,IAI 1124A Westwind II,Lionair Inc.,8,w/o
+2020-04-05,Antonov An-26,Libyan National Army,0,w/o
+2020-04-12,Boeing 737-881 (WL),"All Nippon Airways - ANA, opb ANA Wings",0,non
+2020-04-16,Cessna 208 Caravan I,Mike's Oilfield Services Ltd.,0,sub
+2020-04-19,British Aerospace BAe-125-700A,private,2,w/o
+2020-04-20,British Aerospace BAe-125-800A,private,0,w/o
+2020-04-23,Lockheed C-130J-30 Super Hercules,United States Air Force - USAF,0,sub
+2020-04-24,IAI 1125 Astra SP,Inversiones SC 2012,0,sub
+2020-04-28,Beechcraft A100 King Air,Buffalo Airways,0,sub
+2020-05-02,Beechcraft B200 Super King Air,Province of Saskatchewan Ministry of Central Services,0,sub
+2020-05-04,Learjet 25D,Dos Mil Aerosistema,0,sub
+2020-05-04,Embraer EMB-120RT Brasilia,African Express Airways,6,w/o
+2020-05-05,Learjet 35A,MD Fly,3,w/o
+2020-05-07,Hawker Siddeley HS-125,private,0,w/o
+2020-05-08,Beechcraft 1900C,Ameriflight,0,sub
+2020-05-09,Ilyushin Il-78,Libyan Air Force,0,w/o
+2020-05-09,Learjet 60XR,United Aviation,0,w/o
+2020-05-16,Let L-410MA,Unknown,0,sub
+2020-05-19,Cessna 501 Citation I/SP,McWilliams LLC,0,sub
+2020-05-19,Boeing 737-8Q8 (WL),Swift Air,0,sub
+2020-05-21,Beechcraft 400A Beechjet,Sanjiv Goenka Group,0,sub
+2020-05-21,Embraer C-95BM Bandeirante (EMB-110),Força Aérea Brasileira - FAB,0,sub
+2020-05-22,Airbus A320-214,Pakistan International Airlines - PIA,0,w/o
+2020-05-26,Beechcraft 200 Super King Air,private,0,w/o
+2020-05-28,British Aerospace BAe-125-700A,private,0,sub
+2020-05-30,Antonov An-2,Taraz Zhana Alem,0,sub
+2020-05-30,de Havilland Canada DHC-6 Twin Otter 100,"Kapowsin Air Sports, opf Skydive San Diego",0,sub
+2020-05-30,Beechcraft 200 Super King Air,private,0,w/o
+2020-06-08,Dornier 228-212,Netherlands Coast Guard (Kustwacht),0,min
+2020-06-08,Lockheed C-130H3 Hercules,United States Air Force - USAF,0,sub
+2020-06-09,Beechcraft 1900D,Sunwest Aviation,0,sub
+2020-06-13,Beechcraft 300 Super King Air 350,Gama Aviation Signature,0,sub
+2020-06-14,Airbus A320-271N,IndiGo Airlines,0,non
+2020-06-14,Airbus A320-232,Ural Airlines,0,sub
+2020-06-14,Airbus A320-271N,S7 Airlines,0,min
+2020-06-15,Grumman G-1159 Gulfstream II,private,1,w/o
+2020-06-16,Embraer ERJ-145EP,Loganair,0,min
+2020-06-16,de Havilland Canada DHC-8-402Q Dash 8,Nordic Aviation Capital,0,sub
+2020-06-19,Gulfstream Aerospace G-1159A Gulfstream III,private,0,w/o
+2020-06-28,Cessna 560XL Citation XLS,Jindal Steel & Power Ltd.,0,sub
+2020-07-02,Grumman G-1159 Gulfstream II SP,Private,0,w/o
+2020-07-05,Boeing 737-7H4,Southwest Airlines,0,non
+2020-07-05,British Aerospace BAe-125-700A,private,0,w/o
+2020-07-07,Airbus A319-111,Chair Airlines,0,w/o
+2020-07-07,Hawker 800XP,private,0,w/o
+2020-07-09,Embraer ERJ-175LR,"Envoy Air, opf American Eagle",0,non
+2020-07-09,Airbus A319-132,LATAM Airlines Brasil,0,non
+2020-07-10,Learjet 45,Aeroparadise SA,0,sub
+2020-07-13,Britten-Norman BN-2A-27 Islander,Tropic Air Charters,0,sub
+2020-07-13,Antonov An-2R,Zeus-Avia,2,w/o
+2020-07-14,Boeing 737-8S3 (WL),Mango,0,non
+2020-07-14,de Havilland Canada DHC-8-402Q (PF) Dash 8,Blue Bird Aviation,0,w/o
+2020-07-15,Beechcraft B300 King Air 350i,Turkish Police,7,w/o
+2020-07-17,Beechcraft 200 Super King Air,Skyjet Aviation,0,sub
+2020-07-19,Antonov An-2R,Phoenix,6,w/o
+2020-07-20,Beechcraft B200 Super King Air,private,0,sub
+2020-07-22,Beechcraft 400A Beechjet,N425BJ LLC,0,sub
+2020-07-22,Boeing 777-F60,Ethiopian Airlines,0,w/o
+2020-07-23,Airbus A310-304,Mahan Air,0,non
+2020-07-25,Cessna 208B Grand Caravan,AX Transporter,0,sub
+2020-07-26,Gulfstream Aerospace G-1159A Gulfstream III,private,0,w/o
+2020-07-28,Boeing 737-3Z0 (SF),Trigana Air Service,0,min
+2020-07-30,Beechcraft 200 Super King Air,private,0,w/o
+2020-08-01,Airbus A321-211 (WL),Aeroflot Russian International Airlines,0,sub
+2020-08-03,Antonov An-74TK-100,"UTair-Cargo, opf United Nations - UN",0,w/o
+2020-08-04,Harbin Y-12-II,Kenya Air Force - KAF,0,sub
+2020-08-07,Boeing 737-8HG (WL),Air India Express,21,w/o
+2020-08-08,British Aerospace BAe-125,private,0,w/o
+2020-08-08,Canadair CL-215-1A10,"Aut, Nacional de Emergência e Proteção Civil, opb Babcock",1,w/o
+2020-08-09,British Aerospace BAe-125-800A,private,0,w/o
+2020-08-10,Rockwell Sabreliner 75A,private,2,w/o
+2020-08-12,Airbus A320-214,Iberia,0,non
+2020-08-12,Beechcraft B200 King Air,private,0,w/o
+2020-08-13,Let L-410UVP-E3,Doren Air Congo,4,w/o
+2020-08-16,Cessna 208B Grand Caravan,City Link,0,w/o
+2020-08-18,ATR 72-600 (72-212A),Air Senegal,0,sub
+2020-08-19,Boeing 767-3S2FER,FedEx,0,sub
+2020-08-20,Beechcraft 200 Super King Air,Bomac Air,1,w/o
+2020-08-22,Antonov An-26B,"South West Aviation, lsf Skyway Air",9,w/o
+2020-08-27,Boeing 747SP-21,Las Vegas Sands Corporation,0,sub
+2020-08-28,Boeing 767-324ER,Omni Air International,0,sub
+2020-08-29,Boeing 737-81D (WL),Skymark Airlines,0,sub
+2020-08-29,Dassault Falcon 200,private,0,sub
+2020-09-04,Fairchild SA227-AC Metro III,Ameriflight,0,sub
+2020-09-07,Cessna 208B Grand Caravan,Grand Canyon Airlines,0,sub
+2020-09-07,Gulfstream G200 Galaxy,W.R.V. Empreendimentos e Participacoes Ltda.,0,sub
+2020-09-11,Cessna 208B Grand Caravan,Unknown,0,w/o
+2020-09-15,Beechcraft 200 King Air,private,0,w/o
+2020-09-16,Cessna 560 Citation Encore,Connair Consulting LLC,0,sub
+2020-09-18,Learjet,private,0,w/o
+2020-09-19,Fokker 50,"Silverstone Air Services, opf Saacid Airlines",0,w/o
+2020-09-21,Learjet 35,private,0,w/o
+2020-09-22,Cessna 208B Grand Caravan,private,0,sub
+2020-09-23,British Aerospace BAe-125-800A,private,4,w/o
+2020-09-25,British Aerospace BAe-125,private,0,w/o
+2020-09-25,Antonov An-26Sh,Ukraine Air Force,26,w/o
+2020-09-27,Canadair CL-600-1A11 Challenger 600,private,0,w/o
+2020-09-28,Antonov An-2,Unknown,0,w/o
+2020-09-29,Lockheed KC-130J Hercules,United States Marine Corps,0,sub
+2020-09-30,Boeing 777-232ER,Delta Air Lines,0,non
+2020-10-04,Gulfstream American G-1159A Gulfstream III,private,0,w/o
+2020-10-05,de Havilland Canada DHC-6 Twin Otter 300,Trans Maldivian Airways,0,sub
+2020-10-05,British Aerospace BAe-125,private,0,w/o
+2020-10-05,Hawker 850XP,Ratchthani Leasing Public Company Limited,0,sub
+2020-10-06,Boeing 737-4B6 (SF),AerCaribe Cargo,0,w/o
+2020-10-10,Douglas C-54E (DC-4),Alaska Air Fuel,0,sub
+2020-10-10,Cessna 208B Grand Caravan,Duk Air Travel,0,sub
+2020-10-14,Airbus A320-200,,0,non
+2020-10-14,Beechcraft 99A Airliner,Freight Runners Express,0,sub
+2020-10-14,Antonov An-32A,AerCaribe Peru,0,w/o
+2020-10-16,Britten-Norman BN-2A-27 Islander,Caroline Islands Air,0,sub
+2020-10-21,Learjet 60,Worldwide Jet Charter Inc,0,sub
+2020-10-22,de Havilland Canada DHC-6 Twin Otter 300,Trans Maldivian Airways,0,sub
+2020-10-23,Bombardier DHC-8-402Q Dash 8,Oriental Air Bridge,0,sub
+2020-10-24,Embraer ERJ-145LR,"American Eagle, opb Envoy Air",0,sub
+2020-10-29,Gulfstream American G-1159A Gulfstream III,private,3,w/o
+2020-10-29,Britten-Norman BN-2A-26 Islander,St. Bernard Parish Government,0,sub
+2020-10-30,Antonov An-2,private,0,sub
+2020-10-30,Embraer EMB-500 Phenom 100,TRACBEL,0,w/o
+2020-10-31,Cessna AC-208B Combat Caravan,Al Quwwat al Jawwiya al Iraqiya (Iraqi Air Force),2,w/o
+2020-11-01,Raytheon Beechjet 400A,Georgia Jet,0,sub
+2020-11-05,Fairchild SA227-AC Metro III,Dos Mil Aerosistema,0,sub
+2020-11-09,Rockwell Sabreliner 65,private,1,w/o
+2020-11-11,British Aerospace BAe-125-800B,private,0,w/o
+2020-11-12,British Aerospace 3201 Jetstream 32EP,SAETA Peru,0,sub
+2020-11-13,Bombardier CRJ-701ER,"SkyWest Airlines, opf American Eagle",0,non
+2020-11-13,Antonov An-124-100,Volga-Dnepr Airlines,0,sub
+2020-11-15,Grumman G-1159 Gulfstream II SP,private,0,w/o
+2020-11-16,ATR 72-500 (72-212A),TruJet,0,sub
+2020-11-23,Beechcraft 200 King Air,Air-Glaciers,0,sub
+2020-11-23,de Havilland Canada DHC-8-314 Dash 8,Voyageur Airways,0,sub
+2020-11-23,de Havilland Canada DHC-7-110,British Antarctic Survey,0,sub
+2020-11-26,ATR 42-300,Calm Air International,0,sub
+2020-11-28,Embraer EMB-110P1 Bandeirante,Cubana de Aviación,0,sub
+2020-11-30,Cessna 208B Grand Caravan,Royal Bahamas Defence Force,0,sub
+2020-12-01,de Havilland Canada DHC-6 Vista Liner 300,Air Sanga,0,sub
+2020-12-02,Cessna 551 Citation II/SP,Aviation Star S II LLC,0,sub
+2020-12-02,Boeing 737-529,Air Djibouti,0,sub
+2020-12-05,British Aerospace BAe-125-800A,private,0,w/o
+2020-12-05,Beechcraft A100 King Air,Airco Aircraft Charters,0,sub
+2020-12-09,Shijiazhuang Y-5B,Xinjiang General Aviation,0,w/o
+2020-12-09,Antonov An-2R,private,1,w/o
+2020-12-10,Gulfstream Aerospace G-1159A Gulfstream III,private,0,w/o
+2020-12-13,Eclipse 500,private,0,sub
+2020-12-16,Embraer EMB-500 Phenom 100,Executive Aviation Investors Inc,0,sub
+2020-12-19,British Aerospace BAe-125-700A,private,1,w/o
+2020-12-20,Raytheon Hawker 800XP,Talon Air,0,sub
+2020-12-22,Cessna 525 Citation M2,La Barca Empreendimentos Ltda,0,sub
+2020-12-23,Airbus A320-232,United Airlines,0,non
+2020-12-30,Cessna 208B Supervan 900,Blue Wing Airlines,0,sub
+2019-01-07,Saab 340B,RAF-AVIA,0,sub
+2019-01-12,Boeing 737-524 (WL),UTair Aviation,0,sub
+2019-01-12,Canadair CL-600-2A12 Challenger 601,TW 601-C Investment LLC,0,sub
+2019-01-14,Boeing 707-3J9C,"Saha Air, lsf Islamic Republic of Iran Air Force - IRIAF",15,w/o
+2019-01-16,Cessna 208B Grand Caravan,Air Services Limited - ASL,0,sub
+2019-01-18,Boeing 777-212ER,Singapore Airlines,0,non
+2019-01-21,Aero Modifications AMI DC-3-65TP,Priority Air Charter,2,sub
+2019-01-22,Boeing 737-8LJ (WL),Aeroflot Russian International Airlines,0,non
+2019-01-23,de Havilland Canada DHC-8-102 Dash 8,Air Creebec,0,sub
+2019-01-26,Airbus A321-231,Onur Air,0,sub
+2019-01-28,Airbus A320-214 (WL),Frontier Airlines,0,sub
+2019-01-28,Boeing 727-2B6 Adv. (F),Kalitta Charters,0,sub
+2019-01-28,ATR 72-500 (72-212A),"Air Europa, opb Swiftair",0,sub
+2019-01-29,Beechcraft B200 King Air,Guardian Flight,3,w/o
+2019-01-30,Beechcraft 200 Super King Air,Air Tindi,2,w/o
+2019-02-03,Boeing 787-8 Dreamliner,United Airlines,0,non
+2019-02-04,Boeing 737-332,"Tarco Air, opf Sudan Airways",0,non
+2019-02-05,Boeing 737-823 (WL),American Airlines,0,non
+2019-02-08,Airbus A321-251N,Novair,0,sub
+2019-02-08,Convair C-131B Samaritan,Conquest Air Cargo,1,w/o
+2019-02-09,Cessna 208 Caravan I,RICO Taxi Aéreo,0,sub
+2019-02-09,Embraer ERJ 190AR (ERJ-190-100 IGW),Kenya Airways,0,sub
+2019-02-11,Raytheon Beechjet 400A,Stein's Aircraft Services,0,sub
+2019-02-13,Embraer ERJ-175LR (ERJ-170-200 LR),"Delta Airlines, opb Compass Airlines",0,min
+2019-02-13,de Havilland Canada DHC-6 Twin Otter 300,Winair,0,non
+2019-02-13,Boeing 787-9 Dreamliner,KLM Royal Dutch Airlines,0,min
+2019-02-13,Boeing 747-406M,KLM Royal Dutch Airlines,0,min
+2019-02-17,Boeing 737-832 (WL),Delta Air Lines,0,non
+2019-02-23,Boeing 767-375ER (BCF) (WL),"Amazon Air, opb Atlas Air",3,w/o
+2019-02-24,Boeing 737-8E9 (WL),Biman Bangladesh Airlines,1,min
+2019-02-25,de Havilland Canada EO-5C (DHC-7-102),United States Army,0,sub
+2019-02-26,Gulfstream G200 Galaxy,Silk Way Business Aviation,0,sub
+2019-02-27,Boeing 777-223ER,American Airlines,0,non
+2019-02-28,Embraer ERJ-195LR (ERJ-190-200 LR),Flybe,0,non
+2019-03-02,de Havilland Canada DHC-8-402Q Dash 8,Flybe,0,sub
+2019-03-03,Bombardier BD-100 Challenger 350,private,0,w/o
+2019-03-03,Airbus A320-214 (WL),Avianca Brasil,0,sub
+2019-03-03,Honda HA-420 HondaJet,Banyan Jet Service,0,w/o
+2019-03-03,Beechcraft 1900D,Tassili Airlines,0,sub
+2019-03-04,Cessna 208B Grand Caravan,Amik Aviation,0,sub
+2019-03-04,Embraer EMB-145XR,"United Express, opb CommutAir",0,sub
+2019-03-07,Learjet 35A,Baires Fly,0,sub
+2019-03-09,Gulfstream G-IV,Waffle House Inc.,0,sub
+2019-03-09,Douglas DC-3,LASER Aéreo Colombia,14,w/o
+2019-03-10,Boeing 737-832 (WL),Delta Air Lines,0,sub
+2019-03-10,Bombardier CRJ-900LR,"PSA Airlines, opf American Eagle",0,sub
+2019-03-10,Bombardier CL-600-2C10 Regional Jet CRJ-702ER,"PSA Airlines, opf American Eagle",0,sub
+2019-03-10,Hawker Siddeley HS-125-600A,private,1,w/o
+2019-03-10,Boeing 737 MAX 8,Ethiopian Airlines,157,w/o
+2019-03-11,de Havilland Canada CC-138 Twin Otter (DHC-6),Royal Canadian Air Force - RCAF,0,sub
+2019-03-12,Beechcraft A100 King Air,Golden Wings Aviation Inc.,0,sub
+2019-03-14,Cessna 650 Citation III,RP Sales and Leasing Inc.,0,sub
+2019-03-18,IAI 1124 Westwind,Sundance Airport FBO LLC,2,w/o
+2019-03-18,Bombardier BD-100-1A10 Challenger 300,Berjaya Air,0,sub
+2019-03-19,Fokker 100,Iran Air,0,sub
+2019-03-21,ATR 72-500 (72-212A),Afrijet,0,sub
+2019-03-22,Rockwell Sabreliner 60,private,0,w/o
+2019-03-23,Airbus A320-232,Wizz Air,0,min
+2019-03-23,Beechcraft B200 Super King Air,Major Blue Air,1,w/o
+2019-03-27,Boeing 737-7H4 (WL),Southwest Airlines,0,sub
+2019-03-27,Antonov An-2,Empresa Nacional de Servicios Aéreos-ENSA,0,sub
+2019-04-03,Airbus A320-214,easyJet,0,min
+2019-04-04,McDonnell Douglas MD-88,Delta Air Lines,0,sub
+2019-04-04,de Havilland Canada DHC-8-402Q Dash 8,Austrian Airlines,0,sub
+2019-04-08,British Aerospace 4100 Jetstream 41,Sky High Aviation Services,0,sub
+2019-04-10,Airbus A321-231 (WL),American Airlines,0,sub
+2019-04-11,Boeing 737-924ER (WL),United Airlines,0,non
+2019-04-13,Rockwell Sabreliner 65,Classic Aviation,3,w/o
+2019-04-14,Let L-410UVP-E20,Summit Air,0,w/o
+2019-04-16,Bombardier BD-700-1A11 Global 5000,Luftwaffe,0,sub
+2019-04-16,Pilatus Britten-Norman BN-2B-27 Islander,Archipiélagos Servicios Aéreos,6,w/o
+2019-04-22,Airbus A320-232 (WL),Thai Smile,0,non
+2019-04-22,Antonov An-26,Asia Airways,0,sub
+2019-04-23,Cessna 208 Caravan I,private,0,sub
+2019-04-24,Beechcraft B200 Super King Air,Keewatin Air,0,sub
+2019-04-24,Cessna 551 Citation II/SP,private,0,sub
+2019-04-30,Boeing 737-33A (WL),Jet2,0,sub
+2019-04-30,Boeing 737-73S (WL),Ryanair,0,sub
+2019-05-02,Boeing 737-8GJ (WL),T'way Air,0,non
+2019-05-03,Douglas C-47A-25-DK (DC-3C),Buffalo Airways,0,sub
+2019-05-03,Boeing 737-81Q (WL),Miami Air International,0,sub
+2019-05-04,Antonov An-2R,Voskhod LLC,0,sub
+2019-05-04,Learjet 45,Skyservice Business Aviation,0,unk
+2019-05-05,Canadair CL-600-2B16 Challenger 601-3A,Compañia de Aviación y Logística Empresarial,13,w/o
+2019-05-05,Sukhoi Superjet 100-95B,Aeroflot Russian International Airlines,41,w/o
+2019-05-07,Antonov An-2R,private,0,w/o
+2019-05-07,de Havilland Canada DHC-6 Twin Otter 300,Air Inuit,0,sub
+2019-05-08,de Havilland Canada DHC-8-402Q Dash 8,Biman Bangladesh Airlines,0,w/o
+2019-05-10,de Havilland Canada DHC-8-311 Dash 8,"Air Canada Express, opb Jazz Aviation",0,sub
+2019-05-11,Cessna 208B Supervan 900,Parachutisme Nouvel Air,0,sub
+2019-05-12,Embraer ERJ-190LR,Myanmar National Airlines,0,min
+2019-05-13,Boeing 737-9B5,Korean Air,0,non
+2019-05-13,de Havilland Canada DHC-3T Vazar Turbine Otter,Taquan Air,0,sub
+2019-05-18,Gulfstream American G-1159 Gulfstream II SP,private,0,w/o
+2019-05-22,Cessna S550 Citation S/II,private,2,w/o
+2019-05-22,Antonov An-2R,private,0,w/o
+2019-05-24,Cessna 560 Citation Encore,Jet Sales LLC,1,w/o
+2019-05-25,Boeing 737-8H4 (WL),Southwest Airlines,0,non
+2019-05-25,Airbus A320-214 (WL),Batik Air,0,non
+2019-05-28,Airbus A320-232,Jetblue Airways,0,non
+2019-05-29,Antonov An-124-100,Libyan Air Cargo,0,w/o
+2019-06-03,Antonov An-32,Indian Air Force - IAF,13,w/o
+2019-06-07,Antonov An-2T,TSO Ukrayiny,0,sub
+2019-06-09,Boeing 737-924ER (WL),United Airlines,0,sub
+2019-06-09,Antonov An-2R,Feniks,0,sub
+2019-06-11,CASA C-212 Aviocar 200,EP Aviation,0,sub
+2019-06-13,Beechcraft B200 Super King Air,Unknown,0,w/o
+2019-06-15,ATR 42-320,MAP Linhas Aéreas,0,sub
+2019-06-15,Boeing 757-224 (WL),United Airlines,0,sub
+2019-06-17,Boeing 737-8H4 (WL),Southwest Airlines,0,sub
+2019-06-17,Cessna 680 Citation Sovereign,Banco Macro,0,sub
+2019-06-18,Airbus A330-243,Hong Kong Airlines,0,non
+2019-06-20,Antonov An-2R,Navigator,1,w/o
+2019-06-21,Basler BT-67 Turbo 67 (DC-3T),North Star Air,0,sub
+2019-06-23,Antonov An-2R,Phoenix Air LLC,0,w/o
+2019-06-24,Hawker Siddeley HS-125-400,Unknown,0,w/o
+2019-06-26,Rockwell Sabreliner 65,Yankee Dawdle LLC,0,min
+2019-06-27,Cessna 560 Citation V,Mueller Aero Inc,0,min
+2019-06-27,British Aerospace 3212 Jetstream 31,Transmandu,0,w/o
+2019-06-27,Antonov An-24RV,Angara Airlines,2,w/o
+2019-06-28,Saab 340A,Western Air,0,sub
+2019-06-29,Cessna 208B Supervan 900,ISR Aviation LLC,0,sub
+2019-06-30,Dassault Falcon 900B,Warren Transportation LLC,0,w/o
+2019-06-30,Antonov An-2T,"DOSAAF, Gvardeysky ATSK",0,sub
+2019-06-30,Beechcraft B300 King Air 350i,EE Operations LLC,10,w/o
+2019-07-01,Boeing 737-85R,SpiceJet,0,sub
+2019-07-08,Canadair CL-215-6B11 (CL-415),Gouvernement du Québec,0,sub
+2019-07-08,Cessna 208B Grand Caravan,Grant Aviation,0,w/o
+2019-07-08,Airbus A320-214,Afriqiyah Airways,0,min
+2019-07-09,Antonov An-2,Unknown,0,sub
+2019-07-09,Boeing 737-8K2 (WL),KLM Royal Dutch Airlines,0,min
+2019-07-09,Airbus A320-214 (WL),easyJet Europe,0,min
+2019-07-10,Airbus A380-861,Emirates,0,non
+2019-07-12,ATR 42-500,Sky Express,0,sub
+2019-07-12,Cessna 525 CitationJet,"Omicron Business Services, LLC",0,sub
+2019-07-13,Beechcraft B200 Super King Air,Unknown,0,w/o
+2019-07-16,Antonov An-2,Unknown,0,w/o
+2019-07-17,Cessna 550 Citation II,Avia Jet LLC,0,w/o
+2019-07-19,de Havilland Canada DHC-8-402Q Dash 8,WestJet Encore,0,sub
+2019-07-20,ATR 42-500,Pakistan International Airlines - PIA,0,sub
+2019-07-22,Boeing 767-322ER (WL),United Airlines,0,non
+2019-07-23,Boeing 757-324 (WL),United Airlines,0,sub
+2019-07-23,Boeing 737-36N (WL),Air Peace,0,sub
+2019-07-24,Boeing 777-333ER,Air Canada,0,non
+2019-07-25,Ilyushin Il-76TD,Europe Air,1,w/o
+2019-07-25,Ilyushin Il-76TD,Europe Air,0,w/o
+2019-07-26,Cessna 208 Caravan 675,Seair Seaplanes,4,w/o
+2019-07-27,Fairchild SA227-AC Metro III,Sierra West Airlines,0,sub
+2019-07-30,Avro RJ85,Cobham Aviation Services,0,sub
+2019-07-30,Airbus A319-114,Lufthansa,0,sub
+2019-07-30,unknown,Fuerza Aérea de Guinea Ecuatorial,0,w/o
+2019-07-30,Beechcraft B300 King Air 350i,Pakistan Army Aviation Corps,0,w/o
+2019-07-31,Douglas DC-3C,Bush Air Fuel,0,sub
+2019-07-31,Bombardier CRJ-900ER,"American Eagle, opb Mesa Airlines",0,sub
+2019-08-01,Douglas C-118A Liftmaster (DC-6A),Everts Air Cargo,0,sub
+2019-08-02,Airbus A330-243,Thomas Cook Airlines,0,min
+2019-08-02,Shijiazhuang Y-5B(D),Liaoning Star General Aviation,0,sub
+2019-08-02,Boeing 787-8 Dreamliner,Air Canada,0,min
+2019-08-02,Airbus A340-313,Edelweiss Air,0,sub
+2019-08-04,Antonov An-2,DOSAAF Tajikistan,1,w/o
+2019-08-05,Airbus A320-232,United Airlines,0,sub
+2019-08-06,Cessna 510 Citation Mustang,private,1,w/o
+2019-08-06,Cessna 208B Supervan 900,Alkan Air,2,w/o
+2019-08-06,Cessna 208B Grand Caravan,Tropical Air,0,w/o
+2019-08-06,Ilyushin Il-76TD,SkyAviatrans,0,w/o
+2019-08-06,Cessna 560XLS+ Citation XLS+,Aerowest,0,w/o
+2019-08-07,British Aerospace 3201 Jetstream 32,SARPA - Servicios Aéreos Panamericanos,0,sub
+2019-08-07,HS-125/BAe-125,unknown,0,w/o
+2019-08-08,Airbus A320-232,Jetblue Airways,0,non
+2019-08-08,Bombardier CL-600-2B16 Challenger 604,Netjets,0,non
+2019-08-08,Airbus A321-211 (WL),Frontier Airlines,0,sub
+2019-08-10,Canadair CL-600-2B16 Challenger 601,private,0,sub
+2019-08-12,Boeing 787-9 Dreamliner,Norwegian Air UK,0,min
+2019-08-14,de Havilland Canada DHC-6 Twin Otter 200,Fuerza Aérea Argentina - FAA,0,sub
+2019-08-14,Beechcraft Super King Air,Unknown,0,w/o
+2019-08-15,Boeing 787-8 Dreamliner,All Nippon Airways - ANA,0,non
+2019-08-15,de Havilland Canada DHC-6 Twin Otter 300,Berry Aviation,0,sub
+2019-08-15,Cessna 680A Citation Latitude,JRM Air LLC,0,w/o
+2019-08-15,Airbus A321-211,Ural Airlines,0,sub
+2019-08-16,de Havilland Canada DHC-8-200,SafariLink,0,sub
+2019-08-18,Cessna 208B Grand Caravan EX,Mokulele Airlines,0,sub
+2019-08-18,Boeing 757-251 (WL),Delta Air Lines,0,sub
+2019-08-21,Airbus A340-642,Virgin Atlantic Airways,0,non
+2019-08-21,Cessna 750 Citation X,Fuerza Aérea Venezolana - FAV,0,w/o
+2019-08-21,Cessna 208B Super Cargomaster,Morningstar Air Express,0,sub
+2019-08-21,Cessna 560XL Citation Excel,Delta Private Jets,0,w/o
+2019-08-22,Airbus A380-861,Emirates,0,sub
+2019-08-23,Antonov An-2T,Club Tiroler Adler,0,sub
+2019-08-25,Lockheed C-130A Hercules,International Air Response,0,sub
+2019-08-26,McDonnell Douglas MD-88,Delta Air Lines,0,non
+2019-08-27,Airbus A320-251N,Frontier Airlines,0,non
+2019-08-27,Airbus A330-343,Air China,0,sub
+2019-08-27,Cessna 560XL Citation Excel,Air Charter Services,0,w/o
+2019-08-28,Cessna 525 CitationJet CJ1+,Lenox Handels und Speditions GmbH,0,sub
+2019-08-28,Antonov An-2R,private,0,sub
+2019-08-30,Antonov An-2R,private,2,w/o
+2019-08-31,Cessna 510 Citation Mustang,Star Jet LLC,0,sub
+2019-09-01,Airbus A330-202,Libyan Airlines,0,min
+2019-09-01,Beechcraft B300 King Air 350,Lionair Inc.,9,w/o
+2019-09-02,British Aerospace BAe-125-700A,private,2,w/o
+2019-09-05,Cessna 560XLS+ Citation XLS+,Jet 24 GmbH,0,sub
+2019-09-06,Airbus A319-132,Spirit Airlines,0,non
+2019-09-07,ATR 72-600 (72-212A),"Regional Express Américas, opf Avianca",0,sub
+2019-09-09,Airbus A319-112,Eurowings,0,non
+2019-09-11,Bombardier CRJ-701ER,"Skywest Airlines, opf American Eagle",0,sub
+2019-09-11,British Aerospace BAe-125-700A,private,0,unk
+2019-09-11,Cessna 208 Supervan 900,GoJump,1,w/o
+2019-09-11,Convair CV-440,Ferreteria e Implementos San Francisco,2,w/o
+2019-09-16,Cessna 208B Grand Caravan,TwoFlex,0,w/o
+2019-09-18,Britten-Norman BN-2A-21 Islander,Caroline Islands Air,0,w/o
+2019-09-18,Viking Air DHC-6 Twin Otter 400,"Rimbun Air, opb Carpediem Aviation",4,w/o
+2019-09-20,Cessna 208B Grand Caravan,private,0,sub
+2019-09-23,Britten-Norman BN-2A-27 Islander,FlyMontserrat,0,sub
+2019-09-23,Cessna 208B Grand Caravan EX,Auric Air,2,w/o
+2019-09-24,Cessna 208B Grand Caravan,Gobernación del Estado Bolívar,0,sub
+2019-09-24,Cessna 208 Caravan,Department of Royal Rainmaking and Agricultural Aviation,2,w/o
+2019-09-30,Antonov An-12BK,Cavok Air,0,sub
+2019-09-30,Gulfstream American G-1159 Gulfstream II B,private,0,w/o
+2019-10-01,Boeing 777-31HER,Emirates,0,non
+2019-10-02,Boeing B-17G Flying Fortress,The Collings Foundation,7,w/o
+2019-10-04,Antonov An-12BK,Ukraine Air Alliance,5,sub
+2019-10-07,Hawker 800XP,Delta Private Jets,0,sub
+2019-10-07,Honda HA-420 HondaJet,Pro by Air,0,sub
+2019-10-10,Antonov An-72,Air Force of the Democratic Republic of the Congo,8,w/o
+2019-10-11,de Havilland Canada DHC-6 Twin Otter 100,Skydive Georgia,0,sub
+2019-10-11,Fokker 50,Silverstone Air Services,0,w/o
+2019-10-12,Embraer EMB-110P1 Bandeirante,Pineapple Air,0,min
+2019-10-12,ATR 42-600,Japan Air Commuter,0,non
+2019-10-16,Bombardier Global Express,Elite Air Inc,0,non
+2019-10-17,Saab 2000,PenAir - Peninsula Airways,1,sub
+2019-10-18,Airbus CC-150 Polaris (A310-300),Royal Canadian Air Force - RCAF,0,sub
+2019-10-18,Douglas DC-3C,Atlantic Air Cargo,0,unk
+2019-10-22,Canadair CL-600-2B19 Regional Jet CRJ-200LR,"Delta Connection, opb Endeavor Air",0,sub
+2019-10-22,Basler BT-67 Turbo 67 (DC-3T),Fuerza Aérea Salvadoreña,0,sub
+2019-10-25,Rockwell Sabreliner 65,private,0,w/o
+2019-10-25,Beechcraft 200 Super King Air,private,0,sub
+2019-10-26,de Havilland Canada DHC-3T/M601 Turbine Otter,Blue Water Aviation Services,3,w/o
+2019-10-26,Airbus A330-341,Garuda Indonesia Airways,0,non
+2019-10-27,Gulfstream American G-1159 Gulfstream II SP,private,0,w/o
+2019-10-27,Let L-410UVP,Abeer Air Services,0,w/o
+2019-10-29,de Havilland Canada DHC-8-402Q Dash 8,Horizon Air,0,sub
+2019-10-31,Cessna 208B Super Cargomaster,"Corporate Air, opf FedEx",0,min
+2019-11-03,Boeing 787-8 Dreamliner,Avianca,0,non
+2019-11-05,Learjet 35A,USMX AirLink,0,sub
+2019-11-11,Boeing 747-428ERF,ACT Airlines,0,non
+2019-11-11,British Aerospace BAe-125-700A,private,0,w/o
+2019-11-11,Embraer EMB-145LR (ERJ-145LR),"American Eagle, opb Envoy Air",0,sub
+2019-11-14,Cessna 550 Citation II,José João Abdalla Filho,5,w/o
+2019-11-15,Cessna 560 Citation Encore,ETG Aviation LLC,0,sub
+2019-11-15,Cessna 525B CitationJet CJ3,Pilot Point Consultancy LLC,0,sub
+2019-11-16,Bombardier CRJ-900,,0,sub
+2019-11-16,Airbus A330-243,Air Namibia,0,min
+2019-11-16,Boeing 777-3B5ER,Korean Air,0,sub
+2019-11-21,Boeing 737-8F2 (WL),THY Turkish Airlines,0,sub
+2019-11-21,Gulfstream G150,Tahe Havacilik,0,sub
+2019-11-22,Boeing 737-401,Avior Airlines,0,sub
+2019-11-23,Boeing 737-800,,0,non
+2019-11-23,Beechcraft B200 King Air,private,0,w/o
+2019-11-24,Dornier 228-201,Busy Bee Congo,0,w/o
+2019-11-25,de Havilland Canada DHC-8-311 Dash 8,Proflight Air Services,0,sub
+2019-11-25,McDonnell Douglas MD-88,Delta Air Lines,0,sub
+2019-11-26,Cessna 208B Grand Caravan,Tropicair,0,non
+2019-12-01,British Aerospace BAe-125-700A,private,0,w/o
+2019-12-01,Beechcraft B99 Airliner,Flamingo Air Charter,0,sub
+2019-12-02,British Aerospace BAe-125-700A,private,0,w/o
+2019-12-03,British Aerospace BAe-125-800A,Business Jet Managers Inc,0,sub
+2019-12-03,Basler BT-67 Turbo 67 (DC-3T),North Star Air,0,sub
+2019-12-04,Beechcraft 200 Super King Air,private,2,w/o
+2019-12-06,British Aerospace BAe-125-800A,private,0,w/o
+2019-12-09,Lockheed C-130H Hercules,Fuerza Aérea de Chile,38,w/o
+2019-12-09,Cessna 208B Super Cargomaster,Martinaire,1,w/o
+2019-12-10,de Havilland Canada DHC-8-402Q Dash 8,Ethiopian Airlines,0,sub
+2019-12-15,Airbus A330-202,Qantas,0,non
+2019-12-15,Embraer EMB-145LR,"Piedmont Airlines, opf American Eagle",0,non
+2019-12-15,Grumman American G-1159 Gulfstream IISP,private,0,w/o
+2019-12-16,Embraer ERJ-140LR,"Envoy Air, opf American Eagle",0,non
+2019-12-16,Airbus A330-243,Air Europa,0,non
+2019-12-16,Beechcraft 200 Super King Air,private,0,w/o
+2019-12-17,Beechcraft B300 King Air 350,Ritch Air LLC,0,sub
+2019-12-18,Embraer ERJ-190AR,American Airlines,0,non
+2019-12-18,Beechcraft 200 Super King Air,WL Aviation LLC,0,sub
+2019-12-18,Cessna 525A CitationJet CJ2,C-GHGR Holdings,0,sub
+2019-12-18,Beechcraft 200 Super King Air,private,0,w/o
+2019-12-19,Boeing 737-924ER (WL),United Airlines,0,non
+2019-12-19,Beechcraft A100 King Air,Representaciones Aero3,9,w/o
+2019-12-21,Boeing 737-7BD (WL),Southwest Airlines,0,sub
+2019-12-22,Boeing 737-824 (WL),United Airlines,0,sub
+2019-12-24,Cessna 208B Grand Caravan,Calafia Airlines,2,w/o
+2019-12-25,Airbus A320-232 (WL),Tigerair Taiwan,0,non
+2019-12-27,Cirrus SF50 Vision Jet,private,0,sub
+2019-12-27,Fokker 100,Bek Air,12,w/o
+2019-12-28,Let L-410UVP-E,Air Fast Congo,0,sub
+2019-12-29,Cessna 560XL Citation XLS,Sunny Sky,0,sub
+2018-01-01,Airbus A319-111,Easyjet,0,non
+2018-01-03,Airbus A319-131,British Airways,0,non
+2018-01-04,Gulfstream G150,Private Airlines Germany,0,sub
+2018-01-05,Boeing 737-8FH (WL),Sunwing Airlines,0,sub
+2018-01-05,Boeing 737-8CT (WL),WestJet,0,sub
+2018-01-06,Boeing 777-369ER,Kuwait Airways,0,sub
+2018-01-06,Antonov An-2TP,Unknown,0,w/o
+2018-01-07,Cessna 208B Grand Caravan,Unknown,0,w/o
+2018-01-09,Embraer EMB-110P1 Bandeirante,Pineapple Air,0,sub
+2018-01-10,de Havilland Canada DHC-8-402Q Dash 8,LOT Polskie Linie Lotnicze,0,sub
+2018-01-10,Gulfstream G200,Air Taxi PH,0,sub
+2018-01-10,Fairchild SA227-AT Merlin IVC,Ameriflight,0,sub
+2018-01-13,Boeing 737-82R (WL),Pegasus Airlines,0,sub
+2018-01-15,Airbus A319-111,Afriqiyah Airways,0,sub
+2018-01-16,Antonov An-2,Kazakhstan Air Defence Force,0,w/o
+2018-01-16,British Aerospace BAe-748-347 Srs. 2A,Bismillah Airlines,0,sub
+2018-01-17,Embraer ERJ-190AR,Fastjet,0,non
+2018-01-17,IPTN/CASA CN-235M-100,Türk Hava Kuvvetleri (Turkish Air Force),3,w/o
+2018-01-18,Convair CV-580F,Air Tribe,0,sub
+2018-01-20,Let L-410UVP,Galeyr Airline,0,sub
+2018-01-20,Embraer EMB-120ER Brasilia,"Delegation of the EU to Somalia, lsf AirTraffic Africa",0,unk
+2018-01-25,Airbus A320,Unknown,0,sub
+2018-01-25,Gulfstream G200,Nestoil,0,sub
+2018-01-29,Shaanxi Y-8GX-3,People's Liberation Army - Air Force - PLAAF,12,w/o
+2018-02-01,Airbus A330-202,Qantas,0,non
+2018-02-04,Raytheon Beechjet 400A,"Travel Management, Inc",0,sub
+2018-02-10,Boeing 737-8AS (WL),Ryanair,0,non
+2018-02-11,Antonov An-148-100B,Saratov Airlines,71,w/o
+2018-02-13,Airbus A330-223,Delta Air Lines,0,non
+2018-02-16,Fokker 100,Qeshm Air,0,sub
+2018-02-18,ATR 72-212,Iran Aseman Airlines,66,w/o
+2018-02-20,McDonnell Douglas MD-83,Dana Air,0,sub
+2018-02-21,Cessna 208B Grand Caravan,Army Parachute Association,0,min
+2018-02-23,Beechcraft B100 King Air,Island Express Air,0,sub
+2018-02-24,Airbus A330-323,Delta Air Lines,0,non
+2018-02-26,Beechcraft A100 King Air,Strait Air,0,sub
+2018-02-28,Airbus A320-214,SmartLynx Airlines Estonia,0,sub
+2018-03-01,Beechcraft 200 Super King Air,Unknown,0,sub
+2018-03-04,Boeing 737-322 (SF),Serve Air,0,sub
+2018-03-06,Antonov An-26,Russian Air Force,39,w/o
+2018-03-10,Learjet 31,N500MP LLC,0,sub
+2018-03-11,Bombardier CL-600-2B16 Challenger 604,MC Aviation,11,w/o
+2018-03-12,de Havilland Canada DHC-8-402Q Dash 8,US-Bangla Airlines,51,w/o
+2018-03-14,Boeing 777-31HER,Emirates,1,non
+2018-03-15,Cessna 208 Caravan I,West Coast Air Services,0,w/o
+2018-03-15,Beechcraft B200 Super King Air,Unknown,0,w/o
+2018-03-16,Beechcraft C99 Commuter,Ameriflight,0,sub
+2018-03-17,Canadair CL-600-2B19 Regional Jet CRJ-200ER,"Air Canada Express, opb Jazz Aviation",0,sub
+2018-03-20,de Havilland Canada DHC-6 Twin Otter 300,Bald Mountain Air Services,0,sub
+2018-03-21,Gulfstream V,Peyton Holdings LLC,0,non
+2018-03-22,Airbus A320-232,,0,non
+2018-03-23,Boeing 737-8K5 (WL),"SmartWings, opf Israir",0,non
+2018-03-26,CASA C-212 Aviocar 200,Bighorn Airways,0,sub
+2018-03-26,CASA C-212 Aviocar,Bighorn Airways,0,unk
+2018-03-27,Airbus A319-111,easyJet,0,sub
+2018-03-28,Boeing 767-3Q8ER,El Al Israel Airlines,0,sub
+2018-03-28,Boeing 737-76J (WL),Germania,0,sub
+2018-03-29,Beechcraft 99 Airliner,Lake Clark Air,0,sub
+2018-03-29,ATR 42-500,Aeromar,0,sub
+2018-03-29,ATR 72-600 (72-212A),Aeromar,0,sub
+2018-03-29,Fairchild SA227-DC Metro 23,Línea Aérea Amaszonas,0,sub
+2018-03-30,Antonov An-12BK,Cavok Air,0,sub
+2018-03-30,Cessna 650 Citation III,2M Leasing LLC,0,sub
+2018-03-31,Cessna 208B Grand Caravan,Skydive the Ranch,0,sub
+2018-04-02,Cessna 525C Citation CJ4,Avis Industrial Corporation,0,sub
+2018-04-04,Dassault Falcon 2000EX,Unknown,0,w/o
+2018-04-04,Learjet 60,Henning Aviation LLC,0,w/o
+2018-04-04,Cessna 560XL Citation Excel,MTC Enterprises LLC,0,w/o
+2018-04-04,Learjet 40XR,Union Gas Air Ventures I LLC,0,w/o
+2018-04-04,Learjet 45XR,ERG Holdings LLC,0,w/o
+2018-04-05,Antonov An-26,Mega Aircompany,0,unk
+2018-04-09,Beechcraft 200 Super King Air,Airwing,0,sub
+2018-04-09,Boeing 737-9B5,Korean Air,0,sub
+2018-04-11,Cessna 208B Grand Caravan,"Hageland Aviation Services, opf Ravn Connect",0,sub
+2018-04-11,Ilyushin Il-76TD,Al Quwwat al-Jawwiya al-Jaza'eriya,257,w/o
+2018-04-12,Cessna 208B Grand Caravan,Penial Air,0,sub
+2018-04-13,Lockheed P-3C Orion,United States Navy,0,w/o
+2018-04-14,Antonov An-74-200,Ayk Avia,0,sub
+2018-04-15,Saab 340B,Transwest Air,0,sub
+2018-04-15,de Havilland Canada DHC-6 Twin Otter 100,Transwest Air,0,sub
+2018-04-15,Bombardier CL-600-2B16 Challenger 605,Morningstar Partners Ltd.,0,sub
+2018-04-15,Cessna 550 Citation Bravo,Private,0,sub
+2018-04-15,Cessna 525 CitationJet,private,1,w/o
+2018-04-15,Airbus A321-213,Air China,0,non
+2018-04-16,Cessna 525 CitationJet CJ1,Herbert Waldmann Lichttechnik GmbH & Co. KG,0,sub
+2018-04-17,de Havilland Canada DHC-8-402Q Dash 8,Flybe,0,sub
+2018-04-17,Boeing 737-7H4 (WL),Southwest Airlines,1,sub
+2018-04-18,Airbus A330-323,Delta Air Lines,0,sub
+2018-04-20,McDonnell Douglas MD-83,World Atlantic Airlines,0,sub
+2018-04-23,Antonov An-2R,SZEMP Air Kft.,0,sub
+2018-04-29,Beechcraft 1900C,Alpine Aviation,0,sub
+2018-04-29,Lockheed L-100-30 Hercules,Libyan Air Force,3,w/o
+2018-04-29,Boeing 737-8GP (WL),Lion Air,0,sub
+2018-04-30,Boeing 737-8AS (WL),Ryanair,0,sub
+2018-05-01,Boeing 767-332ER (WL),Delta Air Lines,0,min
+2018-05-01,Bombardier CRJ-900LR,"Delta Connection, opb Endeavor Air",0,sub
+2018-05-02,Boeing 737-8K5 (WL),TUI fly Belgium,0,sub
+2018-05-02,Beechcraft C99 Commuter,Servicio Aéreo de Policia,4,w/o
+2018-05-02,Lockheed WC-130H Hercules,United States Air Force - USAF,9,w/o
+2018-05-03,Dassault Falcon 900EX,Blueport Trade 121 (Pty) Ltd.,0,sub
+2018-05-04,Cessna 525C Citation CJ4,Aluminios Cortizo,0,sub
+2018-05-05,Embraer KC-390,Embraer,0,sub
+2018-05-07,Boeing 737-8H4 (WL),Southwest Airlines,0,sub
+2018-05-12,Boeing 737-8BK (WL),Air Niugini,0,sub
+2018-05-12,Lockheed L-100-30 Hercules,"Lynden Air Cargo, opf PNG Air",0,sub
+2018-05-13,Cessna 208B Grand Caravan,"Irish Parachute Club, lsf Parachuting Caravan Leasing",2,w/o
+2018-05-13,Airbus A330-323,Asiana Airlines,0,sub
+2018-05-13,Airbus A321-231,THY Turkish Airlines,0,sub
+2018-05-15,Cessna 208B Grand Caravan,private,2,w/o
+2018-05-16,Cessna 208B Grand Caravan,Makalu Air,2,w/o
+2018-05-18,Boeing 737-201 Advanced,"Cubana de Aviación, lsf Global Air",112,w/o
+2018-05-20,Gulfstream G200 Galaxy,Star Jet,0,sub
+2018-05-21,Airbus A330-243,"Saudi Arabian Airlines, lsf Onur Air",0,sub
+2018-05-22,Gulfstream G200 Galaxy,Silver Air,0,w/o
+2018-05-22,Cessna 208B Grand Caravan,Amazonaves Táxi Aéreo,0,w/o
+2018-05-23,Beechcraft 200 Super King Air,Titan Drilling,0,sub
+2018-05-23,Beechcraft 200 Super King Air,Air Katanga,0,min
+2018-05-24,Fairchild SA227-AC Metro III,Aeronaves TSM,0,sub
+2018-05-30,Cessna 208B Grand Caravan,Asure Air,0,sub
+2018-05-30,Cessna 208B Grand Caravan,"Air Serv Limited, opf UNHAS",0,sub
+2018-06-03,Lockheed C-130H Hercules,Al Quwwat al-Jawwiya al-Jaza'eriya,1,w/o
+2018-06-05,Cessna 208B Grand Caravan,Fly-SAX,10,w/o
+2018-06-06,Antonov An-2R,Aeroserv,0,w/o
+2018-06-06,Cessna 525A CitationJet CJ2+,ProAir,0,sub
+2018-06-09,de Havilland Canada DHC-6 Twin Otter 300,Tara Air,0,sub
+2018-06-10,Boeing 777-223ER,American Airlines,0,non
+2018-06-10,Boeing 737-8AL (WL),"Swiftair, opf Smartwings",0,sub
+2018-06-10,Boeing 787-9 Dreamliner,American Airlines,0,non
+2018-06-10,de Havilland Canada DHC-8-402Q Dash 8,WestJet Encore,0,non
+2018-06-10,Gulfstream G-IV,private,0,sub
+2018-06-11,Pilatus Britten-Norman BN-2B-26 Islander,Falkland Islands Government Air Service - FIGAS,0,sub
+2018-06-11,Airbus A340-313,Lufthansa,0,sub
+2018-06-12,Boeing 737-8H4 (WL),Southwest Airlines,0,non
+2018-06-14,McDonnell Douglas MD-83,Bravo Airways,0,sub
+2018-06-14,de Havilland Canada DHC-8-202Q Dash 8,LinkPNG,0,w/o
+2018-06-16,Embraer ERJ-175LR,"Delta Connection, opb Compass Airlines",0,non
+2018-06-18,Cessna 208B Grand Caravan,Spirit Avia Sentosa,0,sub
+2018-06-21,Embraer ERJ 170LR (ERJ-170-100 LR),"Delta Connection, opb Republic Airlines",0,sub
+2018-06-22,Boeing 737-8JP (WL),Norwegian,0,non
+2018-06-22,de Havilland Canada DHC-6 Twin Otter 300,Dimonim Air,0,min
+2018-06-24,Boeing 777-346,Japan Airlines (JAL),0,non
+2018-06-24,Let L-410UVP,Eagle Air (Guinea),4,w/o
+2018-06-25,de Havilland Canada DHC-6 Twin Otter 300,Trigana Air Service,0,min
+2018-06-26,Ilyushin Il-76,Islamic Republic of Iran Air Force - IRIAF,0,w/o
+2018-06-26,Learjet 60,Federal Aviation Administration - FAA,0,sub
+2018-06-26,Airbus A330-323,Asiana Airlines,0,min
+2018-06-26,Boeing 777-2B5ER,Korean Air,0,sub
+2018-06-27,Antonov An-2R,Feniks,0,sub
+2018-06-30,Airbus A330-323,American Airlines,0,non
+2018-06-30,IRMA/Pilatus Britten-Norman BN-2A-26 Islander,Maya Island Air,0,sub
+2018-06-30,Cessna 208 Caravan I,,0,min
+2018-07-04,Cessna 208B Grand Caravan,Air Choice One,0,sub
+2018-07-05,Dornier 228-202,GAM - General Aviation Maintenance,0,sub
+2018-07-05,Cessna 208B Grand Caravan,Flex Air Charters,0,sub
+2018-07-06,ATR 72-600 (72-212A),"TAP Express, opb White Airways",0,sub
+2018-07-09,ATR 72-600 (72-212A),RAM Express,0,sub
+2018-07-09,de Havilland Canada DHC-3T Texas Turbine Otter,Ookpik Aviation,0,sub
+2018-07-10,de Havilland Canada DHC-3T Vazar Turbine Otter,Taquan Air,0,sub
+2018-07-10,Convair CV-340,Rovos Air,1,w/o
+2018-07-11,Douglas DC-3C,Air Colombia,0,sub
+2018-07-16,Boeing 737-8EH (WL),Gol Linhas Aéreas,0,sub
+2018-07-16,Boeing 737-8F2 (WL),Flybondi,0,sub
+2018-07-16,Curtiss C-46F-1-CU Commando,Everts Air Fuel,0,sub
+2018-07-20,Boeing 767-3Q8ER,Air Canada Rouge,0,non
+2018-07-20,Antonov An-26B,Kazairtrans Airline,0,w/o
+2018-07-21,Douglas C-47B (DC-3),"Commemorative Air Force, Highland Lakes Squadron",0,w/o
+2018-07-22,Cessna 750 Citation X,Textron Inc.,0,sub
+2018-07-23,McDonnell Douglas MD-88,Delta Air Lines,0,non
+2018-07-23,Airbus A319-114,Delta Air Lines,0,non
+2018-07-23,Cessna 560 Citation Encore,OzAir Charter Service,0,sub
+2018-07-26,Boeing 757-204,"Sunday Airlines, opf SCAT Airlines",0,sub
+2018-07-27,Boeing 767-38EER,Atlas Air,0,sub
+2018-07-27,Antonov An-2R,Air Kasai,5,w/o
+2018-07-28,IRMA/Britten-Norman BN-2A-27 Islander,Air Taxi Vanuatu,0,sub
+2018-07-28,Britten-Norman BN-2A-8 Islander,Unity Airlines,0,w/o
+2018-07-28,ATR 72-500 (72-212A),Air Vanuatu,0,sub
+2018-07-30,Antonov An-2SX,private,0,sub
+2018-07-31,Boeing 757-223,American Airlines,0,sub
+2018-07-31,Embraer ERJ 190AR,Aeroméxico Connect,0,w/o
+2018-08-01,Beechcraft B300 King Air 350,Atlantic Transportation of Wilmington LLC,0,sub
+2018-08-03,Shijiazhuang Y-5B(D),Heilongjiang Kunpeng General Aviation Co.,0,sub
+2018-08-04,Junkers Ju-52/3mg4e,Ju-Air,20,w/o
+2018-08-05,Airbus A320-200,,0,non
+2018-08-06,Airbus A321-231,LATAM Airlines Brasil,0,non
+2018-08-07,Dassault Falcon 20D,Alliance Air Charter,0,sub
+2018-08-07,Cessna 208B Grand Caravan,Supreme Airlines,0,sub
+2018-08-09,Boeing 777-3F2ER,THY Turkish Airlines,0,sub
+2018-08-09,Boeing 787-8 Dreamliner,Royal Air Maroc - RAM,0,sub
+2018-08-10,de Havilland Canada DHC-8-402Q Dash 8,"Horizon Air, opf Alaska Airlines",1,w/o
+2018-08-13,Airbus A321-271N,Hawaiian Airlines,0,sub
+2018-08-13,Cessna 525 CitationJet,Vancon Holdings,1,w/o
+2018-08-15,Boeing 777-367ER,Cathay Pacific Airways,0,sub
+2018-08-16,Boeing 737-85C (WL),Xiamen Airlines,0,sub
+2018-08-19,de Havilland Canada DHC-8-402Q Dash 8,LC Perú,0,sub
+2018-08-19,Antonov An-2T,Ostthüringer Fallschirmsportclub - OFC,0,sub
+2018-08-24,Boeing 757-2Q8 (WL),Aer Lingus,0,non
+2018-08-25,Grumman HU-16C Albatross,Stargazer Aero,0,w/o
+2018-08-26,Harbin Y-12E,SATENA,0,sub
+2018-08-26,Boeing 767-333ER (WL),Air Canada Rouge,0,sub
+2018-08-26,Cessna 208B Grand Caravan,Bush Air Safaris,0,sub
+2018-08-27,Airbus A320-214 (WL),Vanilla Air,0,non
+2018-08-28,Antonov An-2R,Air Mizia,0,sub
+2018-08-28,Airbus A320-214,Beijing Capital Airlines,0,sub
+2018-08-30,de Havilland Canada DHC-6 Twin Otter 300,Ethiopian Air Force,18,w/o
+2018-08-31,Cessna 680 Citation Sovereign,Boydak Air,0,sub
+2018-09-01,Boeing 737-8AS (WL),Utair,0,w/o
+2018-09-03,Beechcraft B200 Super King Air,West Coast Aviation Services,0,sub
+2018-09-06,Boeing 757-223 (WL),American Airlines,0,non
+2018-09-06,Beechcraft A100 King Air,VOAR Aviação,0,sub
+2018-09-09,Let L-410UVP,"South West Aviation, lsf Slav-Air",20,w/o
+2018-09-10,Boeing 737-823 (WL),American Airlines,0,non
+2018-09-15,Boeing 777-333ER,Air Canada,0,non
+2018-09-15,Canadair CL-215-6B11 (CL-415),Government of Newfoundland and Labrador,0,sub
+2018-09-16,Boeing 777-328ER,Air France,0,non
+2018-09-16,Boeing 747-428FER,"Saudi Arabian Airlines, lsf ACT Airlines",0,sub
+2018-09-17,Ilyushin Il-20M,Russian Air Force,15,w/o
+2018-09-17,Airbus A320-216,Thai AirAsia,0,sub
+2018-09-18,Antonov An-2R,STS Aviatsija,0,sub
+2018-09-18,British Aerospace BAe-125-700A,Starjet Inc.,0,sub
+2018-09-20,Embraer EMB-120ER Brasilia,Berry Aviation,0,sub
+2018-09-23,Boeing 757-224 (WL),United Airlines,0,non
+2018-09-24,Honda HA-420 HondaJet,América Latina Tecnologia Agrícola - ALTA,0,sub
+2018-09-24,Airbus A340-313,Philippine Air Lines,0,sub
+2018-09-25,Beechcraft 200 Super King Air,Kalitta Charters,1,w/o
+2018-09-26,Airbus A321-231 (WL),American Airlines,0,non
+2018-09-27,Airbus A310-304,Air Transat,0,non
+2018-09-27,Cessna 208B Supervan 900,CGG Aviation Australia,1,w/o
+2018-09-27,Dassault Falcon 50,Air America Flight Services,2,sub
+2018-09-28,Airbus A320-232,LATAM Airlines Brasil,0,sub
+2018-09-28,Boeing 737-8BK (WL),Air Niugini,1,sub
+2018-10-01,Antonov An-2T,Inversiones Moraima,0,sub
+2018-10-03,Beechcraft 1900C,"Ravn Connect, opb Frontier Flying Service",0,sub
+2018-10-03,Antonov An-26,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,w/o
+2018-10-03,Antonov An-32A,Al Quwwat al-Jawwiya As-Sudaniya (Sudanese Air Force),0,w/o
+2018-10-08,Boeing 747-4D7,Thai Airways International,0,sub
+2018-10-09,Boeing 737-7H4 (WL),Southwest Airlines,0,non
+2018-10-10,Cessna 208B Grand Caravan EX,Jhonlin Air Transport,0,sub
+2018-10-10,Sukhoi Superjet 100-95B,Yakutia Airlines,0,sub
+2018-10-11,Boeing 737-7H4 (WL),Southwest Airlines,0,non
+2018-10-12,Airbus A319-112,Frontier Airlines,0,non
+2018-10-12,ATR 72-202,Overland Airways,0,w/o
+2018-10-12,Boeing 737-8HG (WL),Air India Express,0,sub
+2018-10-15,Boeing 737-7L9 (WL),Southwest Airlines,0,non
+2018-10-15,Boeing 777-337ER,Air India,0,non
+2018-10-29,Boeing 737 MAX 8,Lion Air,189,w/o
+2018-10-31,Airbus A330-323,Delta Air Lines,0,sub
+2018-10-31,Airbus A330-203,Air France,0,sub
+2018-11-07,Boeing 747-412F,Sky Lease Cargo,0,sub
+2018-11-08,Antonov An-2R,2nd Arkhangelsk United Aviation Division,0,w/o
+2018-11-09,Lockheed C-130E Hercules,Pakistan Air Force,0,w/o
+2018-11-09,Boeing 757-23N,Fly Jamaica Airways,1,sub
+2018-11-11,Embraer ERJ-190LR (ERJ-190-100 LR),Air Astana,0,sub
+2018-11-12,Hawker Siddeley HS-125-700A,Songbird Aviation LLC,0,sub
+2018-11-15,de Havilland Canada DHC-8-315Q Dash 8,PAL Airlines,0,sub
+2018-11-16,British Aerospace 3212 Jetstream 32,SARPA - Servicios Aéreos Panamericanos,0,sub
+2018-11-20,Boeing 737-8LJ (WL),Aeroflot,0,min
+2018-11-21,Fairchild SA227-AC Metro III,Perimeter Aviation,0,sub
+2018-11-22,Boeing 737-53C,Peruvian Airlines,0,sub
+2018-11-23,British Aerospace BAe-125-700A,private,0,mis
+2018-11-24,ATR 72-500 (72-212A),Pakistan International Airlines - PIA,0,sub
+2018-11-26,Cessna 525 Citation M2,ARG Ltda.,4,w/o
+2018-11-30,Cessna 550 Citation II,"Dirt Dynamics, Inc.",0,sub
+2018-11-30,Cessna 525A CitationJet CJ2+,Estoair LLC,3,w/o
+2018-12-01,Airbus A320-232 (WL),Spirit Airlines,0,non
+2018-12-01,Bombardier CRJ-200LR,PSA Airlines,0,sub
+2018-12-03,Hawker 800XP,Arrow Aviation Ltd.,0,sub
+2018-12-03,Boeing 737-823 (WL),American Airlines,0,non
+2018-12-04,Boeing 767-332ER (WL),Delta Air Lines,0,non
+2018-12-04,Airbus A320-214,Ellinair,0,sub
+2018-12-06,Lockheed Martin KC-130J,United States Marine Corps,5,w/o
+2018-12-08,Airbus A320-232 (WL),Thai Smile,0,non
+2018-12-08,Beechcraft 200 Super King Air,Desert-Air Safaris,0,sub
+2018-12-08,Beechcraft 200 Super King Air,Unknown,0,w/o
+2018-12-08,Pilatus Britten-Norman BN-2A-20 Islander,Par-Avion,1,w/o
+2018-12-10,Airbus A300B4-203 (F),AeroUnion - Aerotransporte de Carga Union,0,sub
+2018-12-11,Boeing 777-333ER,Air Canada,0,sub
+2018-12-15,Learjet 35A,Med Air LLC,0,sub
+2018-12-18,Boeing 787-9 Dreamliner,Ethiopian Airlines,0,sub
+2018-12-18,Dornier 228-201,Africa's Connection STP,0,sub
+2018-12-20,Antonov An-26B,Gomair,7,w/o
+2018-12-20,Cessna 560 Citation V,Chen Aircrafts LLC,4,w/o
+2018-12-22,PZL-Mielec M28 Skytruck,Guardia Nacional Bolivariana de Venezuela - GNBV,0,sub
+2018-12-24,Antonov An-26B,Air Force of the Democratic Republic of the Congo,0,w/o
+2018-12-31,Boeing 757-2B7 (WL),American Airlines,0,sub
+,Rockwell Sabreliner 80,private,0,sub
