@@ -1,7 +1,17 @@
-1.BUSINESS UNDERSTANDING
+# Project Overview
+
+This project examines the past data on aviation accidents to provide support to a company intending to venture in the aviation industry. The business proposes to buy and operate commercial and personal planes, yet it has no experience in aviation safety and operational risks management.
+
+In the analysis, based on the data published by the National Transportation Safety Board (NTSB) on aviation accidents in 1962-2023, data cleaning and descriptive analysis methods are implemented to analyze the frequency of accidents, the number of fatalities, and the degree of their harmfulness depending on the type of aircraft. The aim is to establish trends that show the presence of increased or reduced operational risk.
+
+The data obtained through the analysis is utilized to provide recommendations based on data to support the company in choosing less risky aircrafts, decreasing the probability of major accidents, and securing financial investments in the long-term.
 
 
- 1.1 COMPANY BACKGROUND
+
+## BUSINESS UNDERSTANDING
+
+
+  COMPANY BACKGROUND
 
 The company is considering venturing into aviation industry to increase its investment portfolio. To be more precise, it intends to acquire and run commercial and private aviation services by means of aircrafts buying and operation. Nevertheless, the company does not have history in aviation operation, and aircraft safety and operational risk has become a significant issue.
 
@@ -21,7 +31,9 @@ In the case of an aircraft, it is a costly asset and accidents in the air may ca
 
 Due to the nature of these risks, the type of aircraft selected is also not only a matter of an operation choice but a matter of a financial and safety choice.
 
-1.2 THE CORE BUSINESS PROBLEM
+
+  THE CORE BUSINESS PROBLEM
+  
 
 The primary question that the company will require to answer is:
 
@@ -40,7 +52,8 @@ The company does not yet know:
 
 The lack of such information may put the company in a position where they invest in aircrafts that put them in the path of high rates of accidents, serious injuries, or expensive losses.
 
-1.2 OBJECTIVES
+
+ ## OBJECTIVES
 
 
 - To examine the data of aviation accidents in the past to learn about the safety risks trends.
@@ -59,7 +72,7 @@ The lack of such information may put the company in a position where they invest
 - To prepare evidence-based suggestions on the low-risk aircraft purchase.
 
 
-1.3 STAKEHOLDER PERSPECTIVE
+ STAKEHOLDER PERSPECTIVE
 
 The main stakeholder for this project is the Head of the New Aviation Division. This person is responsible for:
 
@@ -80,7 +93,7 @@ They are not a data scientist, so the insights must be presented in clear busine
 -Better long-term investment protection
 
 
-2.DATA UNDERSTANDING
+## DATA UNDERSTANDING
 
 
 
@@ -419,7 +432,7 @@ missing_values.head(15)
 #reg has the highest missing values (92), followed by operator (14), and fat having the least missing value(12)
 ```
 
-3. DATA PREPARATION 
+## DATA PREPARATION 
 
 DEFINING AVIATION RISK
 
@@ -436,7 +449,7 @@ Explain that risk could be measured by:
 -Frequency of accidents
 
 
-3.1 DATA CLEANING 
+## DATA CLEANING 
 
 THis involves ;
 
@@ -459,7 +472,7 @@ Requirements
 
 
 
-FILTER DATA TO RELEVANT COLUMNS
+ FILTER DATA TO RELEVANT COLUMNS
 
 We are only keeping columns that help us answer the question :
  Which aircraft types are lowest risk?
@@ -555,7 +568,7 @@ df.head()
 
 
 
-RENAMING COLUMNS (MAKING THE EASIER TO USE)
+ RENAMING COLUMNS (MAKING THE EASIER TO USE)
 
 
 ```python
@@ -682,7 +695,7 @@ df.head(10)
 
 
 
-CHECKING FOR DUPLICATES
+ CHECKING FOR DUPLICATES
 
 sometimes the same  accident may be recorded more than once 
 
@@ -938,7 +951,7 @@ df.info()
     memory usage: 58.5+ KB
     
 
-CHECKING FOR MISSING VALUES 
+ CHECKING FOR MISSING VALUES 
 
 
 ```python
@@ -982,7 +995,7 @@ print(damage_counts.head(10))
     Name: damage, dtype: int64
     
 
-CONVERTING FAT (FATALITIES) TO INTEGERS
+ CONVERTING FAT (FATALITIES) TO INTEGERS
 
 Enables accurate aggregation and risk analysis for future risk analysis and clear visualization.
 
@@ -1028,7 +1041,7 @@ df["fatalities"].dtype
 
 
 
-CHECKING CLEANED DATA
+ CHECKING CLEANED DATA
 
 Confirming cleaned data ensure there are:
 -Correct datatypes
@@ -1245,7 +1258,7 @@ df.describe()
 
 
 
-4. DATA ANALYSIS 
+## DATA ANALYSIS 
 
 In this analysis, there is the use of descriptive analysis to describe historical aviation
 accident data. Counts and totals are used to analyze the data in order to determine patterns.
@@ -1381,7 +1394,7 @@ plt.show()
     
 
 
-INSIGHT 1
+## INSIGHT 1
 
 When fatalities are summarized by aircraft type, some aircraft types have
 very low total fatality counts compared to others in the dataset.
@@ -1527,7 +1540,7 @@ plt.show()
     
 
 
-INSIGHT 2
+## INSIGHT 2
 
 The rate of accidents recorded over different aircrafts differs with some
 types which occur less frequently in accidents.
@@ -1618,7 +1631,7 @@ plt.show()
     
 
 
-INSIGHT  3
+## INSIGHT  3
 
 Most accidents fall into damage categories that do not indicate complete aircraft loss, while fewer accidents result in more severe damage outcomes.
 
@@ -1691,7 +1704,7 @@ plt.show()
     
 
 
-INSIGHT 4
+## INSIGHT 4
 
 When the aircraft type summarizes the severity of the damage, certain aircraft types emerge.
 more often among the larger damage categories, and others more often
@@ -1704,9 +1717,9 @@ The company should prioritize aircraft types that are more frequently associated
 
 
 
-5. DATA ANALYSIS INSIGHTS AND RECOMMENDATION
+## DATA ANALYSIS INSIGHTS AND RECOMMENDATION
 
--Fatalities by Aircraft Type
+ -Fatalities by Aircraft Type
 
 The categorization of fatalities by aircraft type indicates a significant variation in the risk of aircrafts.
 
@@ -1716,7 +1729,7 @@ Conversely, the aircrafts such as Dassault Falcon 2000EX, Dornier 228-101, and A
 
 Insight: To reduce the chances of passengers and crew fatalities, investors or operators should think of aircraft types that have low fatalities in the past. Planes that have a large number of fatalities could be characterized by greater risk of operation.
 
--Accident Frequency by Aircraft.
+ -Accident Frequency by Aircraft.
 
 There is a high frequency of accidents with certain types of aircraft, e.g., Cessna 208B Grand Caravan (57 accidents) and Beechcraft 200 Super King Air (29 accidents).
 
@@ -1742,7 +1755,7 @@ The appearance of heatmaps or stacked bar charts shows that there is a certain t
 
 Intuition: Aircrafts that have lower severity of damage in history should first be invested or operated because they are the aircrafts that would have lesser cost of repair and asset loss. In contrast, the types that are often engaged in the serious destruction should be closely observed or avoided to minimize the financial and operation risks.
 
-RECOMMENDATION
+## RECOMMENDATION
 
 There is no equal distribution of fatalities, accidents, and the severity of damages in the aircraft types.
 
@@ -1752,7 +1765,7 @@ Less dangerous aircraft: Dassault Falcon series, Dornier 228 series, ATR 42-300 
 
 Strategic Advice: The companies and investors are advised to lay emphasis on aircraft with fewer fatalities, fewer incidences of accidents, and less damage intensity to minimize operational, financial, and safety hazards.
 
-  Summary
+  ## Summary
   
 Through death data, accident rates, and the severity of damage, the data set can help understand which aircraft models are riskier and which are less risky, leading to informed decisions based on data about which aircraft to choose and how to operate more safely.
 
