@@ -1769,5 +1769,4 @@ Strategic Advice: The companies and investors are advised to lay emphasis on air
   
 Through death data, accident rates, and the severity of damage, the data set can help understand which aircraft models are riskier and which are less risky, leading to informed decisions based on data about which aircraft to choose and how to operate more safely.
 
-TABLEU LINK : https://public.tableau.com/app/profile/richard.oketch/viz/Aviation_Risk_Analysis_Dashbord1/Aviation_Risk_Analysis_Dashboard1
-
+TABLEAU LINK : https://public.tableau.com/views/Aviation_Risk_Analysis_Dashbord1/Aviation_Risk_Analysis_Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
