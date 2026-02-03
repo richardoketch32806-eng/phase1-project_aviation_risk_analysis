@@ -1758,8 +1758,11 @@ Intuition: Aircrafts that have lower severity of damage in history should first 
 ## RECOMMENDATION
 
 There is no equal distribution of fatalities, accidents, and the severity of damages in the aircraft types.
+
 High risk planes: Boeing 737 MAX 8, Ilyushin Il-76TD, Antonov An-2R, Cessna 208B Grand Caravan - these are the models with high death tolls, accidents or extreme damage.
+
 Less dangerous aircraft: Dassault Falcon series, Dornier 228 series, ATR 42-300 of the type indicate zero or less fatalities and low accident rate with minimal damage.
+
 Strategic Advice: The companies and investors are advised to lay emphasis on aircraft with fewer fatalities, fewer incidences of accidents, and less damage intensity to minimize operational, financial, and safety hazards.
 
   ## Summary
