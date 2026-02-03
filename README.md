@@ -1,4 +1,4 @@
-# Project Overview
+# PROJECT OVERVIEW
 
 This project examines the past data on aviation accidents to provide support to a company intending to venture in the aviation industry. The business proposes to buy and operate commercial and personal planes, yet it has no experience in aviation safety and operational risks management.
 
